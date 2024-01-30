@@ -1,0 +1,14 @@
+C:\udemy\ExercicioFixacao01\ExercicioFixacao01\bin\Debug\net7.0\ExercicioFixacao01.exe
+C:\udemy\ExercicioFixacao01\ExercicioFixacao01\bin\Debug\net7.0\ExercicioFixacao01.deps.json
+C:\udemy\ExercicioFixacao01\ExercicioFixacao01\bin\Debug\net7.0\ExercicioFixacao01.runtimeconfig.json
+C:\udemy\ExercicioFixacao01\ExercicioFixacao01\bin\Debug\net7.0\ExercicioFixacao01.dll
+C:\udemy\ExercicioFixacao01\ExercicioFixacao01\bin\Debug\net7.0\ExercicioFixacao01.pdb
+C:\udemy\ExercicioFixacao01\ExercicioFixacao01\obj\Debug\net7.0\ExercicioFixacao01.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\ExercicioFixacao01\ExercicioFixacao01\obj\Debug\net7.0\ExercicioFixacao01.AssemblyInfoInputs.cache
+C:\udemy\ExercicioFixacao01\ExercicioFixacao01\obj\Debug\net7.0\ExercicioFixacao01.AssemblyInfo.cs
+C:\udemy\ExercicioFixacao01\ExercicioFixacao01\obj\Debug\net7.0\ExercicioFixacao01.csproj.CoreCompileInputs.cache
+C:\udemy\ExercicioFixacao01\ExercicioFixacao01\obj\Debug\net7.0\ExercicioFixacao01.dll
+C:\udemy\ExercicioFixacao01\ExercicioFixacao01\obj\Debug\net7.0\refint\ExercicioFixacao01.dll
+C:\udemy\ExercicioFixacao01\ExercicioFixacao01\obj\Debug\net7.0\ExercicioFixacao01.pdb
+C:\udemy\ExercicioFixacao01\ExercicioFixacao01\obj\Debug\net7.0\ExercicioFixacao01.genruntimeconfig.cache
+C:\udemy\ExercicioFixacao01\ExercicioFixacao01\obj\Debug\net7.0\ref\ExercicioFixacao01.dll

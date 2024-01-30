@@ -1,0 +1,14 @@
+C:\udemy\ValorPagar\ValorPagar\bin\Debug\net7.0\ValorPagar.exe
+C:\udemy\ValorPagar\ValorPagar\bin\Debug\net7.0\ValorPagar.deps.json
+C:\udemy\ValorPagar\ValorPagar\bin\Debug\net7.0\ValorPagar.runtimeconfig.json
+C:\udemy\ValorPagar\ValorPagar\bin\Debug\net7.0\ValorPagar.dll
+C:\udemy\ValorPagar\ValorPagar\bin\Debug\net7.0\ValorPagar.pdb
+C:\udemy\ValorPagar\ValorPagar\obj\Debug\net7.0\ValorPagar.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\ValorPagar\ValorPagar\obj\Debug\net7.0\ValorPagar.AssemblyInfoInputs.cache
+C:\udemy\ValorPagar\ValorPagar\obj\Debug\net7.0\ValorPagar.AssemblyInfo.cs
+C:\udemy\ValorPagar\ValorPagar\obj\Debug\net7.0\ValorPagar.csproj.CoreCompileInputs.cache
+C:\udemy\ValorPagar\ValorPagar\obj\Debug\net7.0\ValorPagar.dll
+C:\udemy\ValorPagar\ValorPagar\obj\Debug\net7.0\refint\ValorPagar.dll
+C:\udemy\ValorPagar\ValorPagar\obj\Debug\net7.0\ValorPagar.pdb
+C:\udemy\ValorPagar\ValorPagar\obj\Debug\net7.0\ValorPagar.genruntimeconfig.cache
+C:\udemy\ValorPagar\ValorPagar\obj\Debug\net7.0\ref\ValorPagar.dll

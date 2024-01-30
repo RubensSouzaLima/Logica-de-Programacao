@@ -1,0 +1,14 @@
+C:\udemy\ExClasse2\ExClasse2\bin\Debug\net7.0\ExClasse2.exe
+C:\udemy\ExClasse2\ExClasse2\bin\Debug\net7.0\ExClasse2.deps.json
+C:\udemy\ExClasse2\ExClasse2\bin\Debug\net7.0\ExClasse2.runtimeconfig.json
+C:\udemy\ExClasse2\ExClasse2\bin\Debug\net7.0\ExClasse2.dll
+C:\udemy\ExClasse2\ExClasse2\bin\Debug\net7.0\ExClasse2.pdb
+C:\udemy\ExClasse2\ExClasse2\obj\Debug\net7.0\ExClasse2.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\ExClasse2\ExClasse2\obj\Debug\net7.0\ExClasse2.AssemblyInfoInputs.cache
+C:\udemy\ExClasse2\ExClasse2\obj\Debug\net7.0\ExClasse2.AssemblyInfo.cs
+C:\udemy\ExClasse2\ExClasse2\obj\Debug\net7.0\ExClasse2.csproj.CoreCompileInputs.cache
+C:\udemy\ExClasse2\ExClasse2\obj\Debug\net7.0\ExClasse2.dll
+C:\udemy\ExClasse2\ExClasse2\obj\Debug\net7.0\refint\ExClasse2.dll
+C:\udemy\ExClasse2\ExClasse2\obj\Debug\net7.0\ExClasse2.pdb
+C:\udemy\ExClasse2\ExClasse2\obj\Debug\net7.0\ExClasse2.genruntimeconfig.cache
+C:\udemy\ExClasse2\ExClasse2\obj\Debug\net7.0\ref\ExClasse2.dll

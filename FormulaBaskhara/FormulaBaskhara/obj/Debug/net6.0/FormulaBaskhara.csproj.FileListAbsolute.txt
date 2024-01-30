@@ -1,0 +1,15 @@
+C:\udemy\FormulaBaskhara\FormulaBaskhara\bin\Debug\net6.0\FormulaBaskhara.exe
+C:\udemy\FormulaBaskhara\FormulaBaskhara\bin\Debug\net6.0\FormulaBaskhara.deps.json
+C:\udemy\FormulaBaskhara\FormulaBaskhara\bin\Debug\net6.0\FormulaBaskhara.runtimeconfig.json
+C:\udemy\FormulaBaskhara\FormulaBaskhara\bin\Debug\net6.0\FormulaBaskhara.dll
+C:\udemy\FormulaBaskhara\FormulaBaskhara\bin\Debug\net6.0\FormulaBaskhara.pdb
+C:\udemy\FormulaBaskhara\FormulaBaskhara\obj\Debug\net6.0\FormulaBaskhara.csproj.AssemblyReference.cache
+C:\udemy\FormulaBaskhara\FormulaBaskhara\obj\Debug\net6.0\FormulaBaskhara.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\FormulaBaskhara\FormulaBaskhara\obj\Debug\net6.0\FormulaBaskhara.AssemblyInfoInputs.cache
+C:\udemy\FormulaBaskhara\FormulaBaskhara\obj\Debug\net6.0\FormulaBaskhara.AssemblyInfo.cs
+C:\udemy\FormulaBaskhara\FormulaBaskhara\obj\Debug\net6.0\FormulaBaskhara.csproj.CoreCompileInputs.cache
+C:\udemy\FormulaBaskhara\FormulaBaskhara\obj\Debug\net6.0\FormulaBaskhara.dll
+C:\udemy\FormulaBaskhara\FormulaBaskhara\obj\Debug\net6.0\refint\FormulaBaskhara.dll
+C:\udemy\FormulaBaskhara\FormulaBaskhara\obj\Debug\net6.0\FormulaBaskhara.pdb
+C:\udemy\FormulaBaskhara\FormulaBaskhara\obj\Debug\net6.0\FormulaBaskhara.genruntimeconfig.cache
+C:\udemy\FormulaBaskhara\FormulaBaskhara\obj\Debug\net6.0\ref\FormulaBaskhara.dll

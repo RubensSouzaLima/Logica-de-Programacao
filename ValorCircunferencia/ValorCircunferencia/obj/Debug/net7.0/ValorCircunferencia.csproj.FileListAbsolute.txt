@@ -1,0 +1,14 @@
+C:\udemy\ValorCircunferencia\ValorCircunferencia\bin\Debug\net7.0\ValorCircunferencia.exe
+C:\udemy\ValorCircunferencia\ValorCircunferencia\bin\Debug\net7.0\ValorCircunferencia.deps.json
+C:\udemy\ValorCircunferencia\ValorCircunferencia\bin\Debug\net7.0\ValorCircunferencia.runtimeconfig.json
+C:\udemy\ValorCircunferencia\ValorCircunferencia\bin\Debug\net7.0\ValorCircunferencia.dll
+C:\udemy\ValorCircunferencia\ValorCircunferencia\bin\Debug\net7.0\ValorCircunferencia.pdb
+C:\udemy\ValorCircunferencia\ValorCircunferencia\obj\Debug\net7.0\ValorCircunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\ValorCircunferencia\ValorCircunferencia\obj\Debug\net7.0\ValorCircunferencia.AssemblyInfoInputs.cache
+C:\udemy\ValorCircunferencia\ValorCircunferencia\obj\Debug\net7.0\ValorCircunferencia.AssemblyInfo.cs
+C:\udemy\ValorCircunferencia\ValorCircunferencia\obj\Debug\net7.0\ValorCircunferencia.csproj.CoreCompileInputs.cache
+C:\udemy\ValorCircunferencia\ValorCircunferencia\obj\Debug\net7.0\ValorCircunferencia.dll
+C:\udemy\ValorCircunferencia\ValorCircunferencia\obj\Debug\net7.0\refint\ValorCircunferencia.dll
+C:\udemy\ValorCircunferencia\ValorCircunferencia\obj\Debug\net7.0\ValorCircunferencia.pdb
+C:\udemy\ValorCircunferencia\ValorCircunferencia\obj\Debug\net7.0\ValorCircunferencia.genruntimeconfig.cache
+C:\udemy\ValorCircunferencia\ValorCircunferencia\obj\Debug\net7.0\ref\ValorCircunferencia.dll

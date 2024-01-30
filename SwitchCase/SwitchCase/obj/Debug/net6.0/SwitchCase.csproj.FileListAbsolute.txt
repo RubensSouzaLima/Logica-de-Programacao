@@ -1,0 +1,15 @@
+C:\udemy\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.exe
+C:\udemy\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.deps.json
+C:\udemy\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.runtimeconfig.json
+C:\udemy\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.dll
+C:\udemy\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.pdb
+C:\udemy\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.AssemblyReference.cache
+C:\udemy\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfoInputs.cache
+C:\udemy\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfo.cs
+C:\udemy\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\udemy\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.dll
+C:\udemy\SwitchCase\SwitchCase\obj\Debug\net6.0\refint\SwitchCase.dll
+C:\udemy\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.pdb
+C:\udemy\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.genruntimeconfig.cache
+C:\udemy\SwitchCase\SwitchCase\obj\Debug\net6.0\ref\SwitchCase.dll

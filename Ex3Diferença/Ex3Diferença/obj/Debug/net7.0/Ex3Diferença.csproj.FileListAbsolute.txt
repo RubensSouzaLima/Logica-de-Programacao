@@ -1,0 +1,14 @@
+C:\udemy\Ex3Diferença\Ex3Diferença\bin\Debug\net7.0\Ex3Diferença.exe
+C:\udemy\Ex3Diferença\Ex3Diferença\bin\Debug\net7.0\Ex3Diferença.deps.json
+C:\udemy\Ex3Diferença\Ex3Diferença\bin\Debug\net7.0\Ex3Diferença.runtimeconfig.json
+C:\udemy\Ex3Diferença\Ex3Diferença\bin\Debug\net7.0\Ex3Diferença.dll
+C:\udemy\Ex3Diferença\Ex3Diferença\bin\Debug\net7.0\Ex3Diferença.pdb
+C:\udemy\Ex3Diferença\Ex3Diferença\obj\Debug\net7.0\Ex3Diferença.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Ex3Diferença\Ex3Diferença\obj\Debug\net7.0\Ex3Diferença.AssemblyInfoInputs.cache
+C:\udemy\Ex3Diferença\Ex3Diferença\obj\Debug\net7.0\Ex3Diferença.AssemblyInfo.cs
+C:\udemy\Ex3Diferença\Ex3Diferença\obj\Debug\net7.0\Ex3Diferença.csproj.CoreCompileInputs.cache
+C:\udemy\Ex3Diferença\Ex3Diferença\obj\Debug\net7.0\Ex3Diferença.dll
+C:\udemy\Ex3Diferença\Ex3Diferença\obj\Debug\net7.0\refint\Ex3Diferença.dll
+C:\udemy\Ex3Diferença\Ex3Diferença\obj\Debug\net7.0\Ex3Diferença.pdb
+C:\udemy\Ex3Diferença\Ex3Diferença\obj\Debug\net7.0\Ex3Diferença.genruntimeconfig.cache
+C:\udemy\Ex3Diferença\Ex3Diferença\obj\Debug\net7.0\ref\Ex3Diferença.dll

@@ -1,0 +1,15 @@
+C:\udemy\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\net6.0\GastoDeCombustivel.exe
+C:\udemy\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\net6.0\GastoDeCombustivel.deps.json
+C:\udemy\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\net6.0\GastoDeCombustivel.runtimeconfig.json
+C:\udemy\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\net6.0\GastoDeCombustivel.dll
+C:\udemy\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\net6.0\GastoDeCombustivel.pdb
+C:\udemy\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net6.0\GastoDeCombustivel.csproj.AssemblyReference.cache
+C:\udemy\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net6.0\GastoDeCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net6.0\GastoDeCombustivel.AssemblyInfoInputs.cache
+C:\udemy\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net6.0\GastoDeCombustivel.AssemblyInfo.cs
+C:\udemy\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net6.0\GastoDeCombustivel.csproj.CoreCompileInputs.cache
+C:\udemy\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net6.0\GastoDeCombustivel.dll
+C:\udemy\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net6.0\refint\GastoDeCombustivel.dll
+C:\udemy\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net6.0\GastoDeCombustivel.pdb
+C:\udemy\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net6.0\GastoDeCombustivel.genruntimeconfig.cache
+C:\udemy\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net6.0\ref\GastoDeCombustivel.dll

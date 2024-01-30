@@ -1,0 +1,14 @@
+C:\udemy\ParOrImpar\ParOrImpar\bin\Debug\net7.0\ParOrImpar.exe
+C:\udemy\ParOrImpar\ParOrImpar\bin\Debug\net7.0\ParOrImpar.deps.json
+C:\udemy\ParOrImpar\ParOrImpar\bin\Debug\net7.0\ParOrImpar.runtimeconfig.json
+C:\udemy\ParOrImpar\ParOrImpar\bin\Debug\net7.0\ParOrImpar.dll
+C:\udemy\ParOrImpar\ParOrImpar\bin\Debug\net7.0\ParOrImpar.pdb
+C:\udemy\ParOrImpar\ParOrImpar\obj\Debug\net7.0\ParOrImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\ParOrImpar\ParOrImpar\obj\Debug\net7.0\ParOrImpar.AssemblyInfoInputs.cache
+C:\udemy\ParOrImpar\ParOrImpar\obj\Debug\net7.0\ParOrImpar.AssemblyInfo.cs
+C:\udemy\ParOrImpar\ParOrImpar\obj\Debug\net7.0\ParOrImpar.csproj.CoreCompileInputs.cache
+C:\udemy\ParOrImpar\ParOrImpar\obj\Debug\net7.0\ParOrImpar.dll
+C:\udemy\ParOrImpar\ParOrImpar\obj\Debug\net7.0\refint\ParOrImpar.dll
+C:\udemy\ParOrImpar\ParOrImpar\obj\Debug\net7.0\ParOrImpar.pdb
+C:\udemy\ParOrImpar\ParOrImpar\obj\Debug\net7.0\ParOrImpar.genruntimeconfig.cache
+C:\udemy\ParOrImpar\ParOrImpar\obj\Debug\net7.0\ref\ParOrImpar.dll

@@ -1,0 +1,14 @@
+C:\udemy\Ex5Pecas\Ex5Pecas\bin\Debug\net7.0\Ex5Pecas.exe
+C:\udemy\Ex5Pecas\Ex5Pecas\bin\Debug\net7.0\Ex5Pecas.deps.json
+C:\udemy\Ex5Pecas\Ex5Pecas\bin\Debug\net7.0\Ex5Pecas.runtimeconfig.json
+C:\udemy\Ex5Pecas\Ex5Pecas\bin\Debug\net7.0\Ex5Pecas.dll
+C:\udemy\Ex5Pecas\Ex5Pecas\bin\Debug\net7.0\Ex5Pecas.pdb
+C:\udemy\Ex5Pecas\Ex5Pecas\obj\Debug\net7.0\Ex5Pecas.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Ex5Pecas\Ex5Pecas\obj\Debug\net7.0\Ex5Pecas.AssemblyInfoInputs.cache
+C:\udemy\Ex5Pecas\Ex5Pecas\obj\Debug\net7.0\Ex5Pecas.AssemblyInfo.cs
+C:\udemy\Ex5Pecas\Ex5Pecas\obj\Debug\net7.0\Ex5Pecas.csproj.CoreCompileInputs.cache
+C:\udemy\Ex5Pecas\Ex5Pecas\obj\Debug\net7.0\Ex5Pecas.dll
+C:\udemy\Ex5Pecas\Ex5Pecas\obj\Debug\net7.0\refint\Ex5Pecas.dll
+C:\udemy\Ex5Pecas\Ex5Pecas\obj\Debug\net7.0\Ex5Pecas.pdb
+C:\udemy\Ex5Pecas\Ex5Pecas\obj\Debug\net7.0\Ex5Pecas.genruntimeconfig.cache
+C:\udemy\Ex5Pecas\Ex5Pecas\obj\Debug\net7.0\ref\Ex5Pecas.dll

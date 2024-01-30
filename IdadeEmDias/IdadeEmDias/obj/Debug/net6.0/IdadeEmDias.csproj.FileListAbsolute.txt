@@ -1,0 +1,15 @@
+C:\udemy\IdadeEmDias\IdadeEmDias\bin\Debug\net6.0\IdadeEmDias.exe
+C:\udemy\IdadeEmDias\IdadeEmDias\bin\Debug\net6.0\IdadeEmDias.deps.json
+C:\udemy\IdadeEmDias\IdadeEmDias\bin\Debug\net6.0\IdadeEmDias.runtimeconfig.json
+C:\udemy\IdadeEmDias\IdadeEmDias\bin\Debug\net6.0\IdadeEmDias.dll
+C:\udemy\IdadeEmDias\IdadeEmDias\bin\Debug\net6.0\IdadeEmDias.pdb
+C:\udemy\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\IdadeEmDias.csproj.AssemblyReference.cache
+C:\udemy\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\IdadeEmDias.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\IdadeEmDias.AssemblyInfoInputs.cache
+C:\udemy\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\IdadeEmDias.AssemblyInfo.cs
+C:\udemy\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\IdadeEmDias.csproj.CoreCompileInputs.cache
+C:\udemy\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\IdadeEmDias.dll
+C:\udemy\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\refint\IdadeEmDias.dll
+C:\udemy\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\IdadeEmDias.pdb
+C:\udemy\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\IdadeEmDias.genruntimeconfig.cache
+C:\udemy\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\ref\IdadeEmDias.dll

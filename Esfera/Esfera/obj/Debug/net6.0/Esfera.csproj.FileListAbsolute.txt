@@ -1,0 +1,15 @@
+C:\udemy\Esfera\Esfera\bin\Debug\net6.0\Esfera.exe
+C:\udemy\Esfera\Esfera\bin\Debug\net6.0\Esfera.deps.json
+C:\udemy\Esfera\Esfera\bin\Debug\net6.0\Esfera.runtimeconfig.json
+C:\udemy\Esfera\Esfera\bin\Debug\net6.0\Esfera.dll
+C:\udemy\Esfera\Esfera\bin\Debug\net6.0\Esfera.pdb
+C:\udemy\Esfera\Esfera\obj\Debug\net6.0\Esfera.csproj.AssemblyReference.cache
+C:\udemy\Esfera\Esfera\obj\Debug\net6.0\Esfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Esfera\Esfera\obj\Debug\net6.0\Esfera.AssemblyInfoInputs.cache
+C:\udemy\Esfera\Esfera\obj\Debug\net6.0\Esfera.AssemblyInfo.cs
+C:\udemy\Esfera\Esfera\obj\Debug\net6.0\Esfera.csproj.CoreCompileInputs.cache
+C:\udemy\Esfera\Esfera\obj\Debug\net6.0\Esfera.dll
+C:\udemy\Esfera\Esfera\obj\Debug\net6.0\refint\Esfera.dll
+C:\udemy\Esfera\Esfera\obj\Debug\net6.0\Esfera.pdb
+C:\udemy\Esfera\Esfera\obj\Debug\net6.0\Esfera.genruntimeconfig.cache
+C:\udemy\Esfera\Esfera\obj\Debug\net6.0\ref\Esfera.dll

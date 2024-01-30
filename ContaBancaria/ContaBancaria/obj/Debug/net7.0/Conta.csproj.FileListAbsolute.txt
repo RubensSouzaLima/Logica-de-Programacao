@@ -1,0 +1,14 @@
+C:\udemy\ContaBancaria\ContaBancaria\obj\Debug\net7.0\Conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\ContaBancaria\ContaBancaria\obj\Debug\net7.0\Conta.AssemblyInfoInputs.cache
+C:\udemy\ContaBancaria\ContaBancaria\obj\Debug\net7.0\Conta.AssemblyInfo.cs
+C:\udemy\ContaBancaria\ContaBancaria\obj\Debug\net7.0\Conta.csproj.CoreCompileInputs.cache
+C:\udemy\ContaBancaria\ContaBancaria\bin\Debug\net7.0\Conta.exe
+C:\udemy\ContaBancaria\ContaBancaria\bin\Debug\net7.0\Conta.deps.json
+C:\udemy\ContaBancaria\ContaBancaria\bin\Debug\net7.0\Conta.runtimeconfig.json
+C:\udemy\ContaBancaria\ContaBancaria\bin\Debug\net7.0\Conta.dll
+C:\udemy\ContaBancaria\ContaBancaria\bin\Debug\net7.0\Conta.pdb
+C:\udemy\ContaBancaria\ContaBancaria\obj\Debug\net7.0\Conta.dll
+C:\udemy\ContaBancaria\ContaBancaria\obj\Debug\net7.0\refint\Conta.dll
+C:\udemy\ContaBancaria\ContaBancaria\obj\Debug\net7.0\Conta.pdb
+C:\udemy\ContaBancaria\ContaBancaria\obj\Debug\net7.0\Conta.genruntimeconfig.cache
+C:\udemy\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ref\Conta.dll

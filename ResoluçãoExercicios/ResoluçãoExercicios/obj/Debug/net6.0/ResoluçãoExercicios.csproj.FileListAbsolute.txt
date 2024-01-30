@@ -1,0 +1,15 @@
+C:\udemy\ResoluçãoExercicios\ResoluçãoExercicios\bin\Debug\net6.0\ResoluçãoExercicios.exe
+C:\udemy\ResoluçãoExercicios\ResoluçãoExercicios\bin\Debug\net6.0\ResoluçãoExercicios.deps.json
+C:\udemy\ResoluçãoExercicios\ResoluçãoExercicios\bin\Debug\net6.0\ResoluçãoExercicios.runtimeconfig.json
+C:\udemy\ResoluçãoExercicios\ResoluçãoExercicios\bin\Debug\net6.0\ResoluçãoExercicios.dll
+C:\udemy\ResoluçãoExercicios\ResoluçãoExercicios\bin\Debug\net6.0\ResoluçãoExercicios.pdb
+C:\udemy\ResoluçãoExercicios\ResoluçãoExercicios\obj\Debug\net6.0\ResoluçãoExercicios.csproj.AssemblyReference.cache
+C:\udemy\ResoluçãoExercicios\ResoluçãoExercicios\obj\Debug\net6.0\ResoluçãoExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\ResoluçãoExercicios\ResoluçãoExercicios\obj\Debug\net6.0\ResoluçãoExercicios.AssemblyInfoInputs.cache
+C:\udemy\ResoluçãoExercicios\ResoluçãoExercicios\obj\Debug\net6.0\ResoluçãoExercicios.AssemblyInfo.cs
+C:\udemy\ResoluçãoExercicios\ResoluçãoExercicios\obj\Debug\net6.0\ResoluçãoExercicios.csproj.CoreCompileInputs.cache
+C:\udemy\ResoluçãoExercicios\ResoluçãoExercicios\obj\Debug\net6.0\ResoluçãoExercicios.dll
+C:\udemy\ResoluçãoExercicios\ResoluçãoExercicios\obj\Debug\net6.0\refint\ResoluçãoExercicios.dll
+C:\udemy\ResoluçãoExercicios\ResoluçãoExercicios\obj\Debug\net6.0\ResoluçãoExercicios.pdb
+C:\udemy\ResoluçãoExercicios\ResoluçãoExercicios\obj\Debug\net6.0\ResoluçãoExercicios.genruntimeconfig.cache
+C:\udemy\ResoluçãoExercicios\ResoluçãoExercicios\obj\Debug\net6.0\ref\ResoluçãoExercicios.dll

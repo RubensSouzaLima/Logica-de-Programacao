@@ -1,0 +1,15 @@
+C:\udemy\MediaUm\MediaUm\bin\Debug\net6.0\MediaUm.exe
+C:\udemy\MediaUm\MediaUm\bin\Debug\net6.0\MediaUm.deps.json
+C:\udemy\MediaUm\MediaUm\bin\Debug\net6.0\MediaUm.runtimeconfig.json
+C:\udemy\MediaUm\MediaUm\bin\Debug\net6.0\MediaUm.dll
+C:\udemy\MediaUm\MediaUm\bin\Debug\net6.0\MediaUm.pdb
+C:\udemy\MediaUm\MediaUm\obj\Debug\net6.0\MediaUm.csproj.AssemblyReference.cache
+C:\udemy\MediaUm\MediaUm\obj\Debug\net6.0\MediaUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\MediaUm\MediaUm\obj\Debug\net6.0\MediaUm.AssemblyInfoInputs.cache
+C:\udemy\MediaUm\MediaUm\obj\Debug\net6.0\MediaUm.AssemblyInfo.cs
+C:\udemy\MediaUm\MediaUm\obj\Debug\net6.0\MediaUm.csproj.CoreCompileInputs.cache
+C:\udemy\MediaUm\MediaUm\obj\Debug\net6.0\MediaUm.dll
+C:\udemy\MediaUm\MediaUm\obj\Debug\net6.0\refint\MediaUm.dll
+C:\udemy\MediaUm\MediaUm\obj\Debug\net6.0\MediaUm.pdb
+C:\udemy\MediaUm\MediaUm\obj\Debug\net6.0\MediaUm.genruntimeconfig.cache
+C:\udemy\MediaUm\MediaUm\obj\Debug\net6.0\ref\MediaUm.dll

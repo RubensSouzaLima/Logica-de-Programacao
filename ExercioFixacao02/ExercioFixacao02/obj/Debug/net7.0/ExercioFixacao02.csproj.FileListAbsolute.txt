@@ -1,0 +1,14 @@
+C:\udemy\ExercioFixacao02\ExercioFixacao02\bin\Debug\net7.0\ExercioFixacao02.exe
+C:\udemy\ExercioFixacao02\ExercioFixacao02\bin\Debug\net7.0\ExercioFixacao02.deps.json
+C:\udemy\ExercioFixacao02\ExercioFixacao02\bin\Debug\net7.0\ExercioFixacao02.runtimeconfig.json
+C:\udemy\ExercioFixacao02\ExercioFixacao02\bin\Debug\net7.0\ExercioFixacao02.dll
+C:\udemy\ExercioFixacao02\ExercioFixacao02\bin\Debug\net7.0\ExercioFixacao02.pdb
+C:\udemy\ExercioFixacao02\ExercioFixacao02\obj\Debug\net7.0\ExercioFixacao02.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\ExercioFixacao02\ExercioFixacao02\obj\Debug\net7.0\ExercioFixacao02.AssemblyInfoInputs.cache
+C:\udemy\ExercioFixacao02\ExercioFixacao02\obj\Debug\net7.0\ExercioFixacao02.AssemblyInfo.cs
+C:\udemy\ExercioFixacao02\ExercioFixacao02\obj\Debug\net7.0\ExercioFixacao02.csproj.CoreCompileInputs.cache
+C:\udemy\ExercioFixacao02\ExercioFixacao02\obj\Debug\net7.0\ExercioFixacao02.dll
+C:\udemy\ExercioFixacao02\ExercioFixacao02\obj\Debug\net7.0\refint\ExercioFixacao02.dll
+C:\udemy\ExercioFixacao02\ExercioFixacao02\obj\Debug\net7.0\ExercioFixacao02.pdb
+C:\udemy\ExercioFixacao02\ExercioFixacao02\obj\Debug\net7.0\ExercioFixacao02.genruntimeconfig.cache
+C:\udemy\ExercioFixacao02\ExercioFixacao02\obj\Debug\net7.0\ref\ExercioFixacao02.dll

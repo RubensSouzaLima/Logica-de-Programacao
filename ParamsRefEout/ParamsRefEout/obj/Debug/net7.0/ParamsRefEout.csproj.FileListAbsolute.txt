@@ -1,0 +1,14 @@
+C:\udemy\ParamsRefEout\ParamsRefEout\bin\Debug\net7.0\ParamsRefEout.exe
+C:\udemy\ParamsRefEout\ParamsRefEout\bin\Debug\net7.0\ParamsRefEout.deps.json
+C:\udemy\ParamsRefEout\ParamsRefEout\bin\Debug\net7.0\ParamsRefEout.runtimeconfig.json
+C:\udemy\ParamsRefEout\ParamsRefEout\bin\Debug\net7.0\ParamsRefEout.dll
+C:\udemy\ParamsRefEout\ParamsRefEout\bin\Debug\net7.0\ParamsRefEout.pdb
+C:\udemy\ParamsRefEout\ParamsRefEout\obj\Debug\net7.0\ParamsRefEout.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\ParamsRefEout\ParamsRefEout\obj\Debug\net7.0\ParamsRefEout.AssemblyInfoInputs.cache
+C:\udemy\ParamsRefEout\ParamsRefEout\obj\Debug\net7.0\ParamsRefEout.AssemblyInfo.cs
+C:\udemy\ParamsRefEout\ParamsRefEout\obj\Debug\net7.0\ParamsRefEout.csproj.CoreCompileInputs.cache
+C:\udemy\ParamsRefEout\ParamsRefEout\obj\Debug\net7.0\ParamsRefEout.dll
+C:\udemy\ParamsRefEout\ParamsRefEout\obj\Debug\net7.0\refint\ParamsRefEout.dll
+C:\udemy\ParamsRefEout\ParamsRefEout\obj\Debug\net7.0\ParamsRefEout.pdb
+C:\udemy\ParamsRefEout\ParamsRefEout\obj\Debug\net7.0\ParamsRefEout.genruntimeconfig.cache
+C:\udemy\ParamsRefEout\ParamsRefEout\obj\Debug\net7.0\ref\ParamsRefEout.dll

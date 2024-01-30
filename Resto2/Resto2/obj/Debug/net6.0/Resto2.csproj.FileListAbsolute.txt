@@ -1,0 +1,15 @@
+C:\udemy\Resto2\Resto2\bin\Debug\net6.0\Resto2.exe
+C:\udemy\Resto2\Resto2\bin\Debug\net6.0\Resto2.deps.json
+C:\udemy\Resto2\Resto2\bin\Debug\net6.0\Resto2.runtimeconfig.json
+C:\udemy\Resto2\Resto2\bin\Debug\net6.0\Resto2.dll
+C:\udemy\Resto2\Resto2\bin\Debug\net6.0\Resto2.pdb
+C:\udemy\Resto2\Resto2\obj\Debug\net6.0\Resto2.csproj.AssemblyReference.cache
+C:\udemy\Resto2\Resto2\obj\Debug\net6.0\Resto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Resto2\Resto2\obj\Debug\net6.0\Resto2.AssemblyInfoInputs.cache
+C:\udemy\Resto2\Resto2\obj\Debug\net6.0\Resto2.AssemblyInfo.cs
+C:\udemy\Resto2\Resto2\obj\Debug\net6.0\Resto2.csproj.CoreCompileInputs.cache
+C:\udemy\Resto2\Resto2\obj\Debug\net6.0\Resto2.dll
+C:\udemy\Resto2\Resto2\obj\Debug\net6.0\refint\Resto2.dll
+C:\udemy\Resto2\Resto2\obj\Debug\net6.0\Resto2.pdb
+C:\udemy\Resto2\Resto2\obj\Debug\net6.0\Resto2.genruntimeconfig.cache
+C:\udemy\Resto2\Resto2\obj\Debug\net6.0\ref\Resto2.dll

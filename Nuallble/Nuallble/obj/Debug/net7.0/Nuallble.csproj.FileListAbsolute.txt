@@ -1,0 +1,14 @@
+C:\udemy\Nuallble\Nuallble\bin\Debug\net7.0\Nuallble.exe
+C:\udemy\Nuallble\Nuallble\bin\Debug\net7.0\Nuallble.deps.json
+C:\udemy\Nuallble\Nuallble\bin\Debug\net7.0\Nuallble.runtimeconfig.json
+C:\udemy\Nuallble\Nuallble\bin\Debug\net7.0\Nuallble.dll
+C:\udemy\Nuallble\Nuallble\bin\Debug\net7.0\Nuallble.pdb
+C:\udemy\Nuallble\Nuallble\obj\Debug\net7.0\Nuallble.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Nuallble\Nuallble\obj\Debug\net7.0\Nuallble.AssemblyInfoInputs.cache
+C:\udemy\Nuallble\Nuallble\obj\Debug\net7.0\Nuallble.AssemblyInfo.cs
+C:\udemy\Nuallble\Nuallble\obj\Debug\net7.0\Nuallble.csproj.CoreCompileInputs.cache
+C:\udemy\Nuallble\Nuallble\obj\Debug\net7.0\Nuallble.dll
+C:\udemy\Nuallble\Nuallble\obj\Debug\net7.0\refint\Nuallble.dll
+C:\udemy\Nuallble\Nuallble\obj\Debug\net7.0\Nuallble.pdb
+C:\udemy\Nuallble\Nuallble\obj\Debug\net7.0\Nuallble.genruntimeconfig.cache
+C:\udemy\Nuallble\Nuallble\obj\Debug\net7.0\ref\Nuallble.dll

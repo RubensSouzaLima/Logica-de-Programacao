@@ -1,0 +1,14 @@
+C:\udemy\Problema1\Problema1\bin\Debug\net7.0\Problema1.exe
+C:\udemy\Problema1\Problema1\bin\Debug\net7.0\Problema1.deps.json
+C:\udemy\Problema1\Problema1\bin\Debug\net7.0\Problema1.runtimeconfig.json
+C:\udemy\Problema1\Problema1\bin\Debug\net7.0\Problema1.dll
+C:\udemy\Problema1\Problema1\bin\Debug\net7.0\Problema1.pdb
+C:\udemy\Problema1\Problema1\obj\Debug\net7.0\Problema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Problema1\Problema1\obj\Debug\net7.0\Problema1.AssemblyInfoInputs.cache
+C:\udemy\Problema1\Problema1\obj\Debug\net7.0\Problema1.AssemblyInfo.cs
+C:\udemy\Problema1\Problema1\obj\Debug\net7.0\Problema1.csproj.CoreCompileInputs.cache
+C:\udemy\Problema1\Problema1\obj\Debug\net7.0\Problema1.dll
+C:\udemy\Problema1\Problema1\obj\Debug\net7.0\refint\Problema1.dll
+C:\udemy\Problema1\Problema1\obj\Debug\net7.0\Problema1.pdb
+C:\udemy\Problema1\Problema1\obj\Debug\net7.0\Problema1.genruntimeconfig.cache
+C:\udemy\Problema1\Problema1\obj\Debug\net7.0\ref\Problema1.dll

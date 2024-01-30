@@ -1,0 +1,15 @@
+C:\udemy\AreaCirculo\AreaCirculo\bin\Debug\net6.0\AreaCirculo.exe
+C:\udemy\AreaCirculo\AreaCirculo\bin\Debug\net6.0\AreaCirculo.deps.json
+C:\udemy\AreaCirculo\AreaCirculo\bin\Debug\net6.0\AreaCirculo.runtimeconfig.json
+C:\udemy\AreaCirculo\AreaCirculo\bin\Debug\net6.0\AreaCirculo.dll
+C:\udemy\AreaCirculo\AreaCirculo\bin\Debug\net6.0\AreaCirculo.pdb
+C:\udemy\AreaCirculo\AreaCirculo\obj\Debug\net6.0\AreaCirculo.csproj.AssemblyReference.cache
+C:\udemy\AreaCirculo\AreaCirculo\obj\Debug\net6.0\AreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\AreaCirculo\AreaCirculo\obj\Debug\net6.0\AreaCirculo.AssemblyInfoInputs.cache
+C:\udemy\AreaCirculo\AreaCirculo\obj\Debug\net6.0\AreaCirculo.AssemblyInfo.cs
+C:\udemy\AreaCirculo\AreaCirculo\obj\Debug\net6.0\AreaCirculo.csproj.CoreCompileInputs.cache
+C:\udemy\AreaCirculo\AreaCirculo\obj\Debug\net6.0\AreaCirculo.dll
+C:\udemy\AreaCirculo\AreaCirculo\obj\Debug\net6.0\refint\AreaCirculo.dll
+C:\udemy\AreaCirculo\AreaCirculo\obj\Debug\net6.0\AreaCirculo.pdb
+C:\udemy\AreaCirculo\AreaCirculo\obj\Debug\net6.0\AreaCirculo.genruntimeconfig.cache
+C:\udemy\AreaCirculo\AreaCirculo\obj\Debug\net6.0\ref\AreaCirculo.dll

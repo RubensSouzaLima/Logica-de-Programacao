@@ -1,0 +1,14 @@
+C:\udemy\ImpostoSalario\ImpostoSalario\bin\Debug\net7.0\ImpostoSalario.exe
+C:\udemy\ImpostoSalario\ImpostoSalario\bin\Debug\net7.0\ImpostoSalario.deps.json
+C:\udemy\ImpostoSalario\ImpostoSalario\bin\Debug\net7.0\ImpostoSalario.runtimeconfig.json
+C:\udemy\ImpostoSalario\ImpostoSalario\bin\Debug\net7.0\ImpostoSalario.dll
+C:\udemy\ImpostoSalario\ImpostoSalario\bin\Debug\net7.0\ImpostoSalario.pdb
+C:\udemy\ImpostoSalario\ImpostoSalario\obj\Debug\net7.0\ImpostoSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\ImpostoSalario\ImpostoSalario\obj\Debug\net7.0\ImpostoSalario.AssemblyInfoInputs.cache
+C:\udemy\ImpostoSalario\ImpostoSalario\obj\Debug\net7.0\ImpostoSalario.AssemblyInfo.cs
+C:\udemy\ImpostoSalario\ImpostoSalario\obj\Debug\net7.0\ImpostoSalario.csproj.CoreCompileInputs.cache
+C:\udemy\ImpostoSalario\ImpostoSalario\obj\Debug\net7.0\ImpostoSalario.dll
+C:\udemy\ImpostoSalario\ImpostoSalario\obj\Debug\net7.0\refint\ImpostoSalario.dll
+C:\udemy\ImpostoSalario\ImpostoSalario\obj\Debug\net7.0\ImpostoSalario.pdb
+C:\udemy\ImpostoSalario\ImpostoSalario\obj\Debug\net7.0\ImpostoSalario.genruntimeconfig.cache
+C:\udemy\ImpostoSalario\ImpostoSalario\obj\Debug\net7.0\ref\ImpostoSalario.dll

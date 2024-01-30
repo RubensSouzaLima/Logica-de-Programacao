@@ -1,0 +1,14 @@
+C:\udemy\Params\Params\bin\Debug\net7.0\Params.exe
+C:\udemy\Params\Params\bin\Debug\net7.0\Params.deps.json
+C:\udemy\Params\Params\bin\Debug\net7.0\Params.runtimeconfig.json
+C:\udemy\Params\Params\bin\Debug\net7.0\Params.dll
+C:\udemy\Params\Params\bin\Debug\net7.0\Params.pdb
+C:\udemy\Params\Params\obj\Debug\net7.0\Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Params\Params\obj\Debug\net7.0\Params.AssemblyInfoInputs.cache
+C:\udemy\Params\Params\obj\Debug\net7.0\Params.AssemblyInfo.cs
+C:\udemy\Params\Params\obj\Debug\net7.0\Params.csproj.CoreCompileInputs.cache
+C:\udemy\Params\Params\obj\Debug\net7.0\Params.dll
+C:\udemy\Params\Params\obj\Debug\net7.0\refint\Params.dll
+C:\udemy\Params\Params\obj\Debug\net7.0\Params.pdb
+C:\udemy\Params\Params\obj\Debug\net7.0\Params.genruntimeconfig.cache
+C:\udemy\Params\Params\obj\Debug\net7.0\ref\Params.dll

@@ -1,0 +1,14 @@
+C:\udemy\ParOrImparEx2\ParOrImparEx2\bin\Debug\net7.0\ParOrImparEx2.exe
+C:\udemy\ParOrImparEx2\ParOrImparEx2\bin\Debug\net7.0\ParOrImparEx2.deps.json
+C:\udemy\ParOrImparEx2\ParOrImparEx2\bin\Debug\net7.0\ParOrImparEx2.runtimeconfig.json
+C:\udemy\ParOrImparEx2\ParOrImparEx2\bin\Debug\net7.0\ParOrImparEx2.dll
+C:\udemy\ParOrImparEx2\ParOrImparEx2\bin\Debug\net7.0\ParOrImparEx2.pdb
+C:\udemy\ParOrImparEx2\ParOrImparEx2\obj\Debug\net7.0\ParOrImparEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\ParOrImparEx2\ParOrImparEx2\obj\Debug\net7.0\ParOrImparEx2.AssemblyInfoInputs.cache
+C:\udemy\ParOrImparEx2\ParOrImparEx2\obj\Debug\net7.0\ParOrImparEx2.AssemblyInfo.cs
+C:\udemy\ParOrImparEx2\ParOrImparEx2\obj\Debug\net7.0\ParOrImparEx2.csproj.CoreCompileInputs.cache
+C:\udemy\ParOrImparEx2\ParOrImparEx2\obj\Debug\net7.0\ParOrImparEx2.dll
+C:\udemy\ParOrImparEx2\ParOrImparEx2\obj\Debug\net7.0\refint\ParOrImparEx2.dll
+C:\udemy\ParOrImparEx2\ParOrImparEx2\obj\Debug\net7.0\ParOrImparEx2.pdb
+C:\udemy\ParOrImparEx2\ParOrImparEx2\obj\Debug\net7.0\ParOrImparEx2.genruntimeconfig.cache
+C:\udemy\ParOrImparEx2\ParOrImparEx2\obj\Debug\net7.0\ref\ParOrImparEx2.dll

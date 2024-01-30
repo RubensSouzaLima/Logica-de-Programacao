@@ -1,0 +1,14 @@
+C:\udemy\MatrizExFixacao\MatrizExFixacao\bin\Debug\net7.0\MatrizExFixacao.exe
+C:\udemy\MatrizExFixacao\MatrizExFixacao\bin\Debug\net7.0\MatrizExFixacao.deps.json
+C:\udemy\MatrizExFixacao\MatrizExFixacao\bin\Debug\net7.0\MatrizExFixacao.runtimeconfig.json
+C:\udemy\MatrizExFixacao\MatrizExFixacao\bin\Debug\net7.0\MatrizExFixacao.dll
+C:\udemy\MatrizExFixacao\MatrizExFixacao\bin\Debug\net7.0\MatrizExFixacao.pdb
+C:\udemy\MatrizExFixacao\MatrizExFixacao\obj\Debug\net7.0\MatrizExFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\MatrizExFixacao\MatrizExFixacao\obj\Debug\net7.0\MatrizExFixacao.AssemblyInfoInputs.cache
+C:\udemy\MatrizExFixacao\MatrizExFixacao\obj\Debug\net7.0\MatrizExFixacao.AssemblyInfo.cs
+C:\udemy\MatrizExFixacao\MatrizExFixacao\obj\Debug\net7.0\MatrizExFixacao.csproj.CoreCompileInputs.cache
+C:\udemy\MatrizExFixacao\MatrizExFixacao\obj\Debug\net7.0\MatrizExFixacao.dll
+C:\udemy\MatrizExFixacao\MatrizExFixacao\obj\Debug\net7.0\refint\MatrizExFixacao.dll
+C:\udemy\MatrizExFixacao\MatrizExFixacao\obj\Debug\net7.0\MatrizExFixacao.pdb
+C:\udemy\MatrizExFixacao\MatrizExFixacao\obj\Debug\net7.0\MatrizExFixacao.genruntimeconfig.cache
+C:\udemy\MatrizExFixacao\MatrizExFixacao\obj\Debug\net7.0\ref\MatrizExFixacao.dll

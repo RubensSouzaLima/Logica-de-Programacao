@@ -1,0 +1,14 @@
+C:\udemy\ProblemaSemOOP\ProblemaSemOOP\bin\Debug\net7.0\ProblemaSemOOP.exe
+C:\udemy\ProblemaSemOOP\ProblemaSemOOP\bin\Debug\net7.0\ProblemaSemOOP.deps.json
+C:\udemy\ProblemaSemOOP\ProblemaSemOOP\bin\Debug\net7.0\ProblemaSemOOP.runtimeconfig.json
+C:\udemy\ProblemaSemOOP\ProblemaSemOOP\bin\Debug\net7.0\ProblemaSemOOP.dll
+C:\udemy\ProblemaSemOOP\ProblemaSemOOP\bin\Debug\net7.0\ProblemaSemOOP.pdb
+C:\udemy\ProblemaSemOOP\ProblemaSemOOP\obj\Debug\net7.0\ProblemaSemOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\ProblemaSemOOP\ProblemaSemOOP\obj\Debug\net7.0\ProblemaSemOOP.AssemblyInfoInputs.cache
+C:\udemy\ProblemaSemOOP\ProblemaSemOOP\obj\Debug\net7.0\ProblemaSemOOP.AssemblyInfo.cs
+C:\udemy\ProblemaSemOOP\ProblemaSemOOP\obj\Debug\net7.0\ProblemaSemOOP.csproj.CoreCompileInputs.cache
+C:\udemy\ProblemaSemOOP\ProblemaSemOOP\obj\Debug\net7.0\ProblemaSemOOP.dll
+C:\udemy\ProblemaSemOOP\ProblemaSemOOP\obj\Debug\net7.0\refint\ProblemaSemOOP.dll
+C:\udemy\ProblemaSemOOP\ProblemaSemOOP\obj\Debug\net7.0\ProblemaSemOOP.pdb
+C:\udemy\ProblemaSemOOP\ProblemaSemOOP\obj\Debug\net7.0\ProblemaSemOOP.genruntimeconfig.cache
+C:\udemy\ProblemaSemOOP\ProblemaSemOOP\obj\Debug\net7.0\ref\ProblemaSemOOP.dll

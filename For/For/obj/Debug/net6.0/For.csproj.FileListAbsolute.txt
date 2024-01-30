@@ -1,0 +1,15 @@
+C:\udemy\For\For\bin\Debug\net6.0\For.exe
+C:\udemy\For\For\bin\Debug\net6.0\For.deps.json
+C:\udemy\For\For\bin\Debug\net6.0\For.runtimeconfig.json
+C:\udemy\For\For\bin\Debug\net6.0\For.dll
+C:\udemy\For\For\bin\Debug\net6.0\For.pdb
+C:\udemy\For\For\obj\Debug\net6.0\For.csproj.AssemblyReference.cache
+C:\udemy\For\For\obj\Debug\net6.0\For.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\For\For\obj\Debug\net6.0\For.AssemblyInfoInputs.cache
+C:\udemy\For\For\obj\Debug\net6.0\For.AssemblyInfo.cs
+C:\udemy\For\For\obj\Debug\net6.0\For.csproj.CoreCompileInputs.cache
+C:\udemy\For\For\obj\Debug\net6.0\For.dll
+C:\udemy\For\For\obj\Debug\net6.0\refint\For.dll
+C:\udemy\For\For\obj\Debug\net6.0\For.pdb
+C:\udemy\For\For\obj\Debug\net6.0\For.genruntimeconfig.cache
+C:\udemy\For\For\obj\Debug\net6.0\ref\For.dll

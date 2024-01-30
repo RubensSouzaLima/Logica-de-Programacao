@@ -1,0 +1,14 @@
+C:\udemy\ExMatriz\ExMatriz\bin\Debug\net7.0\ExMatriz.exe
+C:\udemy\ExMatriz\ExMatriz\bin\Debug\net7.0\ExMatriz.deps.json
+C:\udemy\ExMatriz\ExMatriz\bin\Debug\net7.0\ExMatriz.runtimeconfig.json
+C:\udemy\ExMatriz\ExMatriz\bin\Debug\net7.0\ExMatriz.dll
+C:\udemy\ExMatriz\ExMatriz\bin\Debug\net7.0\ExMatriz.pdb
+C:\udemy\ExMatriz\ExMatriz\obj\Debug\net7.0\ExMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\ExMatriz\ExMatriz\obj\Debug\net7.0\ExMatriz.AssemblyInfoInputs.cache
+C:\udemy\ExMatriz\ExMatriz\obj\Debug\net7.0\ExMatriz.AssemblyInfo.cs
+C:\udemy\ExMatriz\ExMatriz\obj\Debug\net7.0\ExMatriz.csproj.CoreCompileInputs.cache
+C:\udemy\ExMatriz\ExMatriz\obj\Debug\net7.0\ExMatriz.dll
+C:\udemy\ExMatriz\ExMatriz\obj\Debug\net7.0\refint\ExMatriz.dll
+C:\udemy\ExMatriz\ExMatriz\obj\Debug\net7.0\ExMatriz.pdb
+C:\udemy\ExMatriz\ExMatriz\obj\Debug\net7.0\ExMatriz.genruntimeconfig.cache
+C:\udemy\ExMatriz\ExMatriz\obj\Debug\net7.0\ref\ExMatriz.dll

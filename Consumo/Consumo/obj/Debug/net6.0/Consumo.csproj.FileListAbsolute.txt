@@ -1,0 +1,15 @@
+C:\udemy\Consumo\Consumo\bin\Debug\net6.0\Consumo.exe
+C:\udemy\Consumo\Consumo\bin\Debug\net6.0\Consumo.deps.json
+C:\udemy\Consumo\Consumo\bin\Debug\net6.0\Consumo.runtimeconfig.json
+C:\udemy\Consumo\Consumo\bin\Debug\net6.0\Consumo.dll
+C:\udemy\Consumo\Consumo\bin\Debug\net6.0\Consumo.pdb
+C:\udemy\Consumo\Consumo\obj\Debug\net6.0\Consumo.csproj.AssemblyReference.cache
+C:\udemy\Consumo\Consumo\obj\Debug\net6.0\Consumo.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Consumo\Consumo\obj\Debug\net6.0\Consumo.AssemblyInfoInputs.cache
+C:\udemy\Consumo\Consumo\obj\Debug\net6.0\Consumo.AssemblyInfo.cs
+C:\udemy\Consumo\Consumo\obj\Debug\net6.0\Consumo.csproj.CoreCompileInputs.cache
+C:\udemy\Consumo\Consumo\obj\Debug\net6.0\Consumo.dll
+C:\udemy\Consumo\Consumo\obj\Debug\net6.0\refint\Consumo.dll
+C:\udemy\Consumo\Consumo\obj\Debug\net6.0\Consumo.pdb
+C:\udemy\Consumo\Consumo\obj\Debug\net6.0\Consumo.genruntimeconfig.cache
+C:\udemy\Consumo\Consumo\obj\Debug\net6.0\ref\Consumo.dll

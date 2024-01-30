@@ -1,0 +1,14 @@
+C:\udemy\Lista\Lista\bin\Debug\net7.0\Lista.exe
+C:\udemy\Lista\Lista\bin\Debug\net7.0\Lista.deps.json
+C:\udemy\Lista\Lista\bin\Debug\net7.0\Lista.runtimeconfig.json
+C:\udemy\Lista\Lista\bin\Debug\net7.0\Lista.dll
+C:\udemy\Lista\Lista\bin\Debug\net7.0\Lista.pdb
+C:\udemy\Lista\Lista\obj\Debug\net7.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Lista\Lista\obj\Debug\net7.0\Lista.AssemblyInfoInputs.cache
+C:\udemy\Lista\Lista\obj\Debug\net7.0\Lista.AssemblyInfo.cs
+C:\udemy\Lista\Lista\obj\Debug\net7.0\Lista.csproj.CoreCompileInputs.cache
+C:\udemy\Lista\Lista\obj\Debug\net7.0\Lista.dll
+C:\udemy\Lista\Lista\obj\Debug\net7.0\refint\Lista.dll
+C:\udemy\Lista\Lista\obj\Debug\net7.0\Lista.pdb
+C:\udemy\Lista\Lista\obj\Debug\net7.0\Lista.genruntimeconfig.cache
+C:\udemy\Lista\Lista\obj\Debug\net7.0\ref\Lista.dll

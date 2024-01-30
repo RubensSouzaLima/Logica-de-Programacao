@@ -1,0 +1,15 @@
+C:\udemy\TempoEvento\TempoEvento\bin\Debug\net6.0\TempoEvento.exe
+C:\udemy\TempoEvento\TempoEvento\bin\Debug\net6.0\TempoEvento.deps.json
+C:\udemy\TempoEvento\TempoEvento\bin\Debug\net6.0\TempoEvento.runtimeconfig.json
+C:\udemy\TempoEvento\TempoEvento\bin\Debug\net6.0\TempoEvento.dll
+C:\udemy\TempoEvento\TempoEvento\bin\Debug\net6.0\TempoEvento.pdb
+C:\udemy\TempoEvento\TempoEvento\obj\Debug\net6.0\TempoEvento.csproj.AssemblyReference.cache
+C:\udemy\TempoEvento\TempoEvento\obj\Debug\net6.0\TempoEvento.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\TempoEvento\TempoEvento\obj\Debug\net6.0\TempoEvento.AssemblyInfoInputs.cache
+C:\udemy\TempoEvento\TempoEvento\obj\Debug\net6.0\TempoEvento.AssemblyInfo.cs
+C:\udemy\TempoEvento\TempoEvento\obj\Debug\net6.0\TempoEvento.csproj.CoreCompileInputs.cache
+C:\udemy\TempoEvento\TempoEvento\obj\Debug\net6.0\TempoEvento.dll
+C:\udemy\TempoEvento\TempoEvento\obj\Debug\net6.0\refint\TempoEvento.dll
+C:\udemy\TempoEvento\TempoEvento\obj\Debug\net6.0\TempoEvento.pdb
+C:\udemy\TempoEvento\TempoEvento\obj\Debug\net6.0\TempoEvento.genruntimeconfig.cache
+C:\udemy\TempoEvento\TempoEvento\obj\Debug\net6.0\ref\TempoEvento.dll

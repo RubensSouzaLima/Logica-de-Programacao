@@ -1,0 +1,14 @@
+C:\udemy\DateTime\DateTime\bin\Debug\net7.0\DateTime.exe
+C:\udemy\DateTime\DateTime\bin\Debug\net7.0\DateTime.deps.json
+C:\udemy\DateTime\DateTime\bin\Debug\net7.0\DateTime.runtimeconfig.json
+C:\udemy\DateTime\DateTime\bin\Debug\net7.0\DateTime.dll
+C:\udemy\DateTime\DateTime\bin\Debug\net7.0\DateTime.pdb
+C:\udemy\DateTime\DateTime\obj\Debug\net7.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\DateTime\DateTime\obj\Debug\net7.0\DateTime.AssemblyInfoInputs.cache
+C:\udemy\DateTime\DateTime\obj\Debug\net7.0\DateTime.AssemblyInfo.cs
+C:\udemy\DateTime\DateTime\obj\Debug\net7.0\DateTime.csproj.CoreCompileInputs.cache
+C:\udemy\DateTime\DateTime\obj\Debug\net7.0\DateTime.dll
+C:\udemy\DateTime\DateTime\obj\Debug\net7.0\refint\DateTime.dll
+C:\udemy\DateTime\DateTime\obj\Debug\net7.0\DateTime.pdb
+C:\udemy\DateTime\DateTime\obj\Debug\net7.0\DateTime.genruntimeconfig.cache
+C:\udemy\DateTime\DateTime\obj\Debug\net7.0\ref\DateTime.dll

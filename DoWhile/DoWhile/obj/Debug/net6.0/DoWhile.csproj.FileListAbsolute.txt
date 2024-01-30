@@ -1,0 +1,15 @@
+C:\udemy\DoWhile\DoWhile\bin\Debug\net6.0\DoWhile.exe
+C:\udemy\DoWhile\DoWhile\bin\Debug\net6.0\DoWhile.deps.json
+C:\udemy\DoWhile\DoWhile\bin\Debug\net6.0\DoWhile.runtimeconfig.json
+C:\udemy\DoWhile\DoWhile\bin\Debug\net6.0\DoWhile.dll
+C:\udemy\DoWhile\DoWhile\bin\Debug\net6.0\DoWhile.pdb
+C:\udemy\DoWhile\DoWhile\obj\Debug\net6.0\DoWhile.csproj.AssemblyReference.cache
+C:\udemy\DoWhile\DoWhile\obj\Debug\net6.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\DoWhile\DoWhile\obj\Debug\net6.0\DoWhile.AssemblyInfoInputs.cache
+C:\udemy\DoWhile\DoWhile\obj\Debug\net6.0\DoWhile.AssemblyInfo.cs
+C:\udemy\DoWhile\DoWhile\obj\Debug\net6.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\udemy\DoWhile\DoWhile\obj\Debug\net6.0\DoWhile.dll
+C:\udemy\DoWhile\DoWhile\obj\Debug\net6.0\refint\DoWhile.dll
+C:\udemy\DoWhile\DoWhile\obj\Debug\net6.0\DoWhile.pdb
+C:\udemy\DoWhile\DoWhile\obj\Debug\net6.0\DoWhile.genruntimeconfig.cache
+C:\udemy\DoWhile\DoWhile\obj\Debug\net6.0\ref\DoWhile.dll

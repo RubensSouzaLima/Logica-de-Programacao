@@ -1,0 +1,14 @@
+C:\udemy\CotacaoDolar\CotacaoDolar\bin\Debug\net7.0\CotacaoDolar.exe
+C:\udemy\CotacaoDolar\CotacaoDolar\bin\Debug\net7.0\CotacaoDolar.deps.json
+C:\udemy\CotacaoDolar\CotacaoDolar\bin\Debug\net7.0\CotacaoDolar.runtimeconfig.json
+C:\udemy\CotacaoDolar\CotacaoDolar\bin\Debug\net7.0\CotacaoDolar.dll
+C:\udemy\CotacaoDolar\CotacaoDolar\bin\Debug\net7.0\CotacaoDolar.pdb
+C:\udemy\CotacaoDolar\CotacaoDolar\obj\Debug\net7.0\CotacaoDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\CotacaoDolar\CotacaoDolar\obj\Debug\net7.0\CotacaoDolar.AssemblyInfoInputs.cache
+C:\udemy\CotacaoDolar\CotacaoDolar\obj\Debug\net7.0\CotacaoDolar.AssemblyInfo.cs
+C:\udemy\CotacaoDolar\CotacaoDolar\obj\Debug\net7.0\CotacaoDolar.csproj.CoreCompileInputs.cache
+C:\udemy\CotacaoDolar\CotacaoDolar\obj\Debug\net7.0\CotacaoDolar.dll
+C:\udemy\CotacaoDolar\CotacaoDolar\obj\Debug\net7.0\refint\CotacaoDolar.dll
+C:\udemy\CotacaoDolar\CotacaoDolar\obj\Debug\net7.0\CotacaoDolar.pdb
+C:\udemy\CotacaoDolar\CotacaoDolar\obj\Debug\net7.0\CotacaoDolar.genruntimeconfig.cache
+C:\udemy\CotacaoDolar\CotacaoDolar\obj\Debug\net7.0\ref\CotacaoDolar.dll

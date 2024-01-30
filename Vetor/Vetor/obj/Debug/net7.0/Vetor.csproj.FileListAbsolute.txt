@@ -1,0 +1,14 @@
+C:\udemy\Vetor\Vetor\bin\Debug\net7.0\Vetor.exe
+C:\udemy\Vetor\Vetor\bin\Debug\net7.0\Vetor.deps.json
+C:\udemy\Vetor\Vetor\bin\Debug\net7.0\Vetor.runtimeconfig.json
+C:\udemy\Vetor\Vetor\bin\Debug\net7.0\Vetor.dll
+C:\udemy\Vetor\Vetor\bin\Debug\net7.0\Vetor.pdb
+C:\udemy\Vetor\Vetor\obj\Debug\net7.0\Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Vetor\Vetor\obj\Debug\net7.0\Vetor.AssemblyInfoInputs.cache
+C:\udemy\Vetor\Vetor\obj\Debug\net7.0\Vetor.AssemblyInfo.cs
+C:\udemy\Vetor\Vetor\obj\Debug\net7.0\Vetor.csproj.CoreCompileInputs.cache
+C:\udemy\Vetor\Vetor\obj\Debug\net7.0\Vetor.dll
+C:\udemy\Vetor\Vetor\obj\Debug\net7.0\refint\Vetor.dll
+C:\udemy\Vetor\Vetor\obj\Debug\net7.0\Vetor.pdb
+C:\udemy\Vetor\Vetor\obj\Debug\net7.0\Vetor.genruntimeconfig.cache
+C:\udemy\Vetor\Vetor\obj\Debug\net7.0\ref\Vetor.dll

@@ -1,0 +1,15 @@
+C:\udemy\SenhaFixa\SenhaFixa\bin\Debug\net6.0\SenhaFixa.exe
+C:\udemy\SenhaFixa\SenhaFixa\bin\Debug\net6.0\SenhaFixa.deps.json
+C:\udemy\SenhaFixa\SenhaFixa\bin\Debug\net6.0\SenhaFixa.runtimeconfig.json
+C:\udemy\SenhaFixa\SenhaFixa\bin\Debug\net6.0\SenhaFixa.dll
+C:\udemy\SenhaFixa\SenhaFixa\bin\Debug\net6.0\SenhaFixa.pdb
+C:\udemy\SenhaFixa\SenhaFixa\obj\Debug\net6.0\SenhaFixa.csproj.AssemblyReference.cache
+C:\udemy\SenhaFixa\SenhaFixa\obj\Debug\net6.0\SenhaFixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\SenhaFixa\SenhaFixa\obj\Debug\net6.0\SenhaFixa.AssemblyInfoInputs.cache
+C:\udemy\SenhaFixa\SenhaFixa\obj\Debug\net6.0\SenhaFixa.AssemblyInfo.cs
+C:\udemy\SenhaFixa\SenhaFixa\obj\Debug\net6.0\SenhaFixa.csproj.CoreCompileInputs.cache
+C:\udemy\SenhaFixa\SenhaFixa\obj\Debug\net6.0\SenhaFixa.dll
+C:\udemy\SenhaFixa\SenhaFixa\obj\Debug\net6.0\refint\SenhaFixa.dll
+C:\udemy\SenhaFixa\SenhaFixa\obj\Debug\net6.0\SenhaFixa.pdb
+C:\udemy\SenhaFixa\SenhaFixa\obj\Debug\net6.0\SenhaFixa.genruntimeconfig.cache
+C:\udemy\SenhaFixa\SenhaFixa\obj\Debug\net6.0\ref\SenhaFixa.dll

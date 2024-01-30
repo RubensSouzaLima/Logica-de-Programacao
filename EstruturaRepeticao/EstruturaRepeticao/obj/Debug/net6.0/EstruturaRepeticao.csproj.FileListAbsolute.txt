@@ -1,0 +1,15 @@
+C:\udemy\EstruturaRepeticao\EstruturaRepeticao\bin\Debug\net6.0\EstruturaRepeticao.exe
+C:\udemy\EstruturaRepeticao\EstruturaRepeticao\bin\Debug\net6.0\EstruturaRepeticao.deps.json
+C:\udemy\EstruturaRepeticao\EstruturaRepeticao\bin\Debug\net6.0\EstruturaRepeticao.runtimeconfig.json
+C:\udemy\EstruturaRepeticao\EstruturaRepeticao\bin\Debug\net6.0\EstruturaRepeticao.dll
+C:\udemy\EstruturaRepeticao\EstruturaRepeticao\bin\Debug\net6.0\EstruturaRepeticao.pdb
+C:\udemy\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\net6.0\EstruturaRepeticao.csproj.AssemblyReference.cache
+C:\udemy\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\net6.0\EstruturaRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\net6.0\EstruturaRepeticao.AssemblyInfoInputs.cache
+C:\udemy\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\net6.0\EstruturaRepeticao.AssemblyInfo.cs
+C:\udemy\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\net6.0\EstruturaRepeticao.csproj.CoreCompileInputs.cache
+C:\udemy\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\net6.0\EstruturaRepeticao.dll
+C:\udemy\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\net6.0\refint\EstruturaRepeticao.dll
+C:\udemy\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\net6.0\EstruturaRepeticao.pdb
+C:\udemy\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\net6.0\EstruturaRepeticao.genruntimeconfig.cache
+C:\udemy\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\net6.0\ref\EstruturaRepeticao.dll

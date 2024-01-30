@@ -1,0 +1,15 @@
+C:\udemy\NumerosImpares\NumerosImpares\bin\Debug\net6.0\NumerosImpares.exe
+C:\udemy\NumerosImpares\NumerosImpares\bin\Debug\net6.0\NumerosImpares.deps.json
+C:\udemy\NumerosImpares\NumerosImpares\bin\Debug\net6.0\NumerosImpares.runtimeconfig.json
+C:\udemy\NumerosImpares\NumerosImpares\bin\Debug\net6.0\NumerosImpares.dll
+C:\udemy\NumerosImpares\NumerosImpares\bin\Debug\net6.0\NumerosImpares.pdb
+C:\udemy\NumerosImpares\NumerosImpares\obj\Debug\net6.0\NumerosImpares.csproj.AssemblyReference.cache
+C:\udemy\NumerosImpares\NumerosImpares\obj\Debug\net6.0\NumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\NumerosImpares\NumerosImpares\obj\Debug\net6.0\NumerosImpares.AssemblyInfoInputs.cache
+C:\udemy\NumerosImpares\NumerosImpares\obj\Debug\net6.0\NumerosImpares.AssemblyInfo.cs
+C:\udemy\NumerosImpares\NumerosImpares\obj\Debug\net6.0\NumerosImpares.csproj.CoreCompileInputs.cache
+C:\udemy\NumerosImpares\NumerosImpares\obj\Debug\net6.0\NumerosImpares.dll
+C:\udemy\NumerosImpares\NumerosImpares\obj\Debug\net6.0\refint\NumerosImpares.dll
+C:\udemy\NumerosImpares\NumerosImpares\obj\Debug\net6.0\NumerosImpares.pdb
+C:\udemy\NumerosImpares\NumerosImpares\obj\Debug\net6.0\NumerosImpares.genruntimeconfig.cache
+C:\udemy\NumerosImpares\NumerosImpares\obj\Debug\net6.0\ref\NumerosImpares.dll

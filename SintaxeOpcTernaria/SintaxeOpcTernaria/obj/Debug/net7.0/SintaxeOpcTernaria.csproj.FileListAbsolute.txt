@@ -1,0 +1,14 @@
+C:\udemy\SintaxeOpcTernaria\SintaxeOpcTernaria\bin\Debug\net7.0\SintaxeOpcTernaria.exe
+C:\udemy\SintaxeOpcTernaria\SintaxeOpcTernaria\bin\Debug\net7.0\SintaxeOpcTernaria.deps.json
+C:\udemy\SintaxeOpcTernaria\SintaxeOpcTernaria\bin\Debug\net7.0\SintaxeOpcTernaria.runtimeconfig.json
+C:\udemy\SintaxeOpcTernaria\SintaxeOpcTernaria\bin\Debug\net7.0\SintaxeOpcTernaria.dll
+C:\udemy\SintaxeOpcTernaria\SintaxeOpcTernaria\bin\Debug\net7.0\SintaxeOpcTernaria.pdb
+C:\udemy\SintaxeOpcTernaria\SintaxeOpcTernaria\obj\Debug\net7.0\SintaxeOpcTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\SintaxeOpcTernaria\SintaxeOpcTernaria\obj\Debug\net7.0\SintaxeOpcTernaria.AssemblyInfoInputs.cache
+C:\udemy\SintaxeOpcTernaria\SintaxeOpcTernaria\obj\Debug\net7.0\SintaxeOpcTernaria.AssemblyInfo.cs
+C:\udemy\SintaxeOpcTernaria\SintaxeOpcTernaria\obj\Debug\net7.0\SintaxeOpcTernaria.csproj.CoreCompileInputs.cache
+C:\udemy\SintaxeOpcTernaria\SintaxeOpcTernaria\obj\Debug\net7.0\SintaxeOpcTernaria.dll
+C:\udemy\SintaxeOpcTernaria\SintaxeOpcTernaria\obj\Debug\net7.0\refint\SintaxeOpcTernaria.dll
+C:\udemy\SintaxeOpcTernaria\SintaxeOpcTernaria\obj\Debug\net7.0\SintaxeOpcTernaria.pdb
+C:\udemy\SintaxeOpcTernaria\SintaxeOpcTernaria\obj\Debug\net7.0\SintaxeOpcTernaria.genruntimeconfig.cache
+C:\udemy\SintaxeOpcTernaria\SintaxeOpcTernaria\obj\Debug\net7.0\ref\SintaxeOpcTernaria.dll

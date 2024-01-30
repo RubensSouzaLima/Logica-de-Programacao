@@ -1,0 +1,15 @@
+C:\udemy\Distancia\Distancia\bin\Debug\net6.0\Distancia.exe
+C:\udemy\Distancia\Distancia\bin\Debug\net6.0\Distancia.deps.json
+C:\udemy\Distancia\Distancia\bin\Debug\net6.0\Distancia.runtimeconfig.json
+C:\udemy\Distancia\Distancia\bin\Debug\net6.0\Distancia.dll
+C:\udemy\Distancia\Distancia\bin\Debug\net6.0\Distancia.pdb
+C:\udemy\Distancia\Distancia\obj\Debug\net6.0\Distancia.csproj.AssemblyReference.cache
+C:\udemy\Distancia\Distancia\obj\Debug\net6.0\Distancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Distancia\Distancia\obj\Debug\net6.0\Distancia.AssemblyInfoInputs.cache
+C:\udemy\Distancia\Distancia\obj\Debug\net6.0\Distancia.AssemblyInfo.cs
+C:\udemy\Distancia\Distancia\obj\Debug\net6.0\Distancia.csproj.CoreCompileInputs.cache
+C:\udemy\Distancia\Distancia\obj\Debug\net6.0\Distancia.dll
+C:\udemy\Distancia\Distancia\obj\Debug\net6.0\refint\Distancia.dll
+C:\udemy\Distancia\Distancia\obj\Debug\net6.0\Distancia.pdb
+C:\udemy\Distancia\Distancia\obj\Debug\net6.0\Distancia.genruntimeconfig.cache
+C:\udemy\Distancia\Distancia\obj\Debug\net6.0\ref\Distancia.dll

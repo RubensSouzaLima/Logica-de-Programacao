@@ -1,0 +1,14 @@
+C:\udemy\VetEx03\VetEx03\bin\Debug\net7.0\VetEx03.exe
+C:\udemy\VetEx03\VetEx03\bin\Debug\net7.0\VetEx03.deps.json
+C:\udemy\VetEx03\VetEx03\bin\Debug\net7.0\VetEx03.runtimeconfig.json
+C:\udemy\VetEx03\VetEx03\bin\Debug\net7.0\VetEx03.dll
+C:\udemy\VetEx03\VetEx03\bin\Debug\net7.0\VetEx03.pdb
+C:\udemy\VetEx03\VetEx03\obj\Debug\net7.0\VetEx03.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\VetEx03\VetEx03\obj\Debug\net7.0\VetEx03.AssemblyInfoInputs.cache
+C:\udemy\VetEx03\VetEx03\obj\Debug\net7.0\VetEx03.AssemblyInfo.cs
+C:\udemy\VetEx03\VetEx03\obj\Debug\net7.0\VetEx03.csproj.CoreCompileInputs.cache
+C:\udemy\VetEx03\VetEx03\obj\Debug\net7.0\VetEx03.dll
+C:\udemy\VetEx03\VetEx03\obj\Debug\net7.0\refint\VetEx03.dll
+C:\udemy\VetEx03\VetEx03\obj\Debug\net7.0\VetEx03.pdb
+C:\udemy\VetEx03\VetEx03\obj\Debug\net7.0\VetEx03.genruntimeconfig.cache
+C:\udemy\VetEx03\VetEx03\obj\Debug\net7.0\ref\VetEx03.dll

@@ -1,0 +1,14 @@
+C:\udemy\FunctionForStrings\FunctionForStrings\bin\Debug\net7.0\FunctionForStrings.exe
+C:\udemy\FunctionForStrings\FunctionForStrings\bin\Debug\net7.0\FunctionForStrings.deps.json
+C:\udemy\FunctionForStrings\FunctionForStrings\bin\Debug\net7.0\FunctionForStrings.runtimeconfig.json
+C:\udemy\FunctionForStrings\FunctionForStrings\bin\Debug\net7.0\FunctionForStrings.dll
+C:\udemy\FunctionForStrings\FunctionForStrings\bin\Debug\net7.0\FunctionForStrings.pdb
+C:\udemy\FunctionForStrings\FunctionForStrings\obj\Debug\net7.0\FunctionForStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\FunctionForStrings\FunctionForStrings\obj\Debug\net7.0\FunctionForStrings.AssemblyInfoInputs.cache
+C:\udemy\FunctionForStrings\FunctionForStrings\obj\Debug\net7.0\FunctionForStrings.AssemblyInfo.cs
+C:\udemy\FunctionForStrings\FunctionForStrings\obj\Debug\net7.0\FunctionForStrings.csproj.CoreCompileInputs.cache
+C:\udemy\FunctionForStrings\FunctionForStrings\obj\Debug\net7.0\FunctionForStrings.dll
+C:\udemy\FunctionForStrings\FunctionForStrings\obj\Debug\net7.0\refint\FunctionForStrings.dll
+C:\udemy\FunctionForStrings\FunctionForStrings\obj\Debug\net7.0\FunctionForStrings.pdb
+C:\udemy\FunctionForStrings\FunctionForStrings\obj\Debug\net7.0\FunctionForStrings.genruntimeconfig.cache
+C:\udemy\FunctionForStrings\FunctionForStrings\obj\Debug\net7.0\ref\FunctionForStrings.dll

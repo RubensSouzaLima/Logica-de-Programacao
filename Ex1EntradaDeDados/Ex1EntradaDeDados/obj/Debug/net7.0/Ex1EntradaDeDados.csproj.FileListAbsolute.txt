@@ -1,0 +1,14 @@
+C:\udemy\Ex1EntradaDeDados\Ex1EntradaDeDados\bin\Debug\net7.0\Ex1EntradaDeDados.exe
+C:\udemy\Ex1EntradaDeDados\Ex1EntradaDeDados\bin\Debug\net7.0\Ex1EntradaDeDados.deps.json
+C:\udemy\Ex1EntradaDeDados\Ex1EntradaDeDados\bin\Debug\net7.0\Ex1EntradaDeDados.runtimeconfig.json
+C:\udemy\Ex1EntradaDeDados\Ex1EntradaDeDados\bin\Debug\net7.0\Ex1EntradaDeDados.dll
+C:\udemy\Ex1EntradaDeDados\Ex1EntradaDeDados\bin\Debug\net7.0\Ex1EntradaDeDados.pdb
+C:\udemy\Ex1EntradaDeDados\Ex1EntradaDeDados\obj\Debug\net7.0\Ex1EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Ex1EntradaDeDados\Ex1EntradaDeDados\obj\Debug\net7.0\Ex1EntradaDeDados.AssemblyInfoInputs.cache
+C:\udemy\Ex1EntradaDeDados\Ex1EntradaDeDados\obj\Debug\net7.0\Ex1EntradaDeDados.AssemblyInfo.cs
+C:\udemy\Ex1EntradaDeDados\Ex1EntradaDeDados\obj\Debug\net7.0\Ex1EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\udemy\Ex1EntradaDeDados\Ex1EntradaDeDados\obj\Debug\net7.0\Ex1EntradaDeDados.dll
+C:\udemy\Ex1EntradaDeDados\Ex1EntradaDeDados\obj\Debug\net7.0\refint\Ex1EntradaDeDados.dll
+C:\udemy\Ex1EntradaDeDados\Ex1EntradaDeDados\obj\Debug\net7.0\Ex1EntradaDeDados.pdb
+C:\udemy\Ex1EntradaDeDados\Ex1EntradaDeDados\obj\Debug\net7.0\Ex1EntradaDeDados.genruntimeconfig.cache
+C:\udemy\Ex1EntradaDeDados\Ex1EntradaDeDados\obj\Debug\net7.0\ref\Ex1EntradaDeDados.dll

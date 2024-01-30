@@ -1,0 +1,14 @@
+C:\udemy\Vetores1\Vetores1\bin\Debug\net7.0\Vetores1.exe
+C:\udemy\Vetores1\Vetores1\bin\Debug\net7.0\Vetores1.deps.json
+C:\udemy\Vetores1\Vetores1\bin\Debug\net7.0\Vetores1.runtimeconfig.json
+C:\udemy\Vetores1\Vetores1\bin\Debug\net7.0\Vetores1.dll
+C:\udemy\Vetores1\Vetores1\bin\Debug\net7.0\Vetores1.pdb
+C:\udemy\Vetores1\Vetores1\obj\Debug\net7.0\Vetores1.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Vetores1\Vetores1\obj\Debug\net7.0\Vetores1.AssemblyInfoInputs.cache
+C:\udemy\Vetores1\Vetores1\obj\Debug\net7.0\Vetores1.AssemblyInfo.cs
+C:\udemy\Vetores1\Vetores1\obj\Debug\net7.0\Vetores1.csproj.CoreCompileInputs.cache
+C:\udemy\Vetores1\Vetores1\obj\Debug\net7.0\Vetores1.dll
+C:\udemy\Vetores1\Vetores1\obj\Debug\net7.0\refint\Vetores1.dll
+C:\udemy\Vetores1\Vetores1\obj\Debug\net7.0\Vetores1.pdb
+C:\udemy\Vetores1\Vetores1\obj\Debug\net7.0\Vetores1.genruntimeconfig.cache
+C:\udemy\Vetores1\Vetores1\obj\Debug\net7.0\ref\Vetores1.dll

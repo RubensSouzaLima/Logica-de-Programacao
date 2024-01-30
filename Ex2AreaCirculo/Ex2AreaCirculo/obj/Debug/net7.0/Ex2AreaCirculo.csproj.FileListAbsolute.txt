@@ -1,0 +1,14 @@
+C:\udemy\Ex2AreaCirculo\Ex2AreaCirculo\bin\Debug\net7.0\Ex2AreaCirculo.exe
+C:\udemy\Ex2AreaCirculo\Ex2AreaCirculo\bin\Debug\net7.0\Ex2AreaCirculo.deps.json
+C:\udemy\Ex2AreaCirculo\Ex2AreaCirculo\bin\Debug\net7.0\Ex2AreaCirculo.runtimeconfig.json
+C:\udemy\Ex2AreaCirculo\Ex2AreaCirculo\bin\Debug\net7.0\Ex2AreaCirculo.dll
+C:\udemy\Ex2AreaCirculo\Ex2AreaCirculo\bin\Debug\net7.0\Ex2AreaCirculo.pdb
+C:\udemy\Ex2AreaCirculo\Ex2AreaCirculo\obj\Debug\net7.0\Ex2AreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Ex2AreaCirculo\Ex2AreaCirculo\obj\Debug\net7.0\Ex2AreaCirculo.AssemblyInfoInputs.cache
+C:\udemy\Ex2AreaCirculo\Ex2AreaCirculo\obj\Debug\net7.0\Ex2AreaCirculo.AssemblyInfo.cs
+C:\udemy\Ex2AreaCirculo\Ex2AreaCirculo\obj\Debug\net7.0\Ex2AreaCirculo.csproj.CoreCompileInputs.cache
+C:\udemy\Ex2AreaCirculo\Ex2AreaCirculo\obj\Debug\net7.0\Ex2AreaCirculo.dll
+C:\udemy\Ex2AreaCirculo\Ex2AreaCirculo\obj\Debug\net7.0\refint\Ex2AreaCirculo.dll
+C:\udemy\Ex2AreaCirculo\Ex2AreaCirculo\obj\Debug\net7.0\Ex2AreaCirculo.pdb
+C:\udemy\Ex2AreaCirculo\Ex2AreaCirculo\obj\Debug\net7.0\Ex2AreaCirculo.genruntimeconfig.cache
+C:\udemy\Ex2AreaCirculo\Ex2AreaCirculo\obj\Debug\net7.0\ref\Ex2AreaCirculo.dll

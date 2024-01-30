@@ -1,0 +1,14 @@
+C:\udemy\VetorExFixacao\VetorExFixacao\bin\Debug\net7.0\VetorExFixacao.exe
+C:\udemy\VetorExFixacao\VetorExFixacao\bin\Debug\net7.0\VetorExFixacao.deps.json
+C:\udemy\VetorExFixacao\VetorExFixacao\bin\Debug\net7.0\VetorExFixacao.runtimeconfig.json
+C:\udemy\VetorExFixacao\VetorExFixacao\bin\Debug\net7.0\VetorExFixacao.dll
+C:\udemy\VetorExFixacao\VetorExFixacao\bin\Debug\net7.0\VetorExFixacao.pdb
+C:\udemy\VetorExFixacao\VetorExFixacao\obj\Debug\net7.0\VetorExFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\VetorExFixacao\VetorExFixacao\obj\Debug\net7.0\VetorExFixacao.AssemblyInfoInputs.cache
+C:\udemy\VetorExFixacao\VetorExFixacao\obj\Debug\net7.0\VetorExFixacao.AssemblyInfo.cs
+C:\udemy\VetorExFixacao\VetorExFixacao\obj\Debug\net7.0\VetorExFixacao.csproj.CoreCompileInputs.cache
+C:\udemy\VetorExFixacao\VetorExFixacao\obj\Debug\net7.0\VetorExFixacao.dll
+C:\udemy\VetorExFixacao\VetorExFixacao\obj\Debug\net7.0\refint\VetorExFixacao.dll
+C:\udemy\VetorExFixacao\VetorExFixacao\obj\Debug\net7.0\VetorExFixacao.pdb
+C:\udemy\VetorExFixacao\VetorExFixacao\obj\Debug\net7.0\VetorExFixacao.genruntimeconfig.cache
+C:\udemy\VetorExFixacao\VetorExFixacao\obj\Debug\net7.0\ref\VetorExFixacao.dll

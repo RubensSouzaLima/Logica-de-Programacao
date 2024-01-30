@@ -1,0 +1,15 @@
+C:\udemy\Area\Area\bin\Debug\net6.0\Area.exe
+C:\udemy\Area\Area\bin\Debug\net6.0\Area.deps.json
+C:\udemy\Area\Area\bin\Debug\net6.0\Area.runtimeconfig.json
+C:\udemy\Area\Area\bin\Debug\net6.0\Area.dll
+C:\udemy\Area\Area\bin\Debug\net6.0\Area.pdb
+C:\udemy\Area\Area\obj\Debug\net6.0\Area.csproj.AssemblyReference.cache
+C:\udemy\Area\Area\obj\Debug\net6.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Area\Area\obj\Debug\net6.0\Area.AssemblyInfoInputs.cache
+C:\udemy\Area\Area\obj\Debug\net6.0\Area.AssemblyInfo.cs
+C:\udemy\Area\Area\obj\Debug\net6.0\Area.csproj.CoreCompileInputs.cache
+C:\udemy\Area\Area\obj\Debug\net6.0\Area.dll
+C:\udemy\Area\Area\obj\Debug\net6.0\refint\Area.dll
+C:\udemy\Area\Area\obj\Debug\net6.0\Area.pdb
+C:\udemy\Area\Area\obj\Debug\net6.0\Area.genruntimeconfig.cache
+C:\udemy\Area\Area\obj\Debug\net6.0\ref\Area.dll

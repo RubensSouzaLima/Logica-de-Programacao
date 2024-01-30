@@ -1,0 +1,15 @@
+C:\udemy\ExtremamenteBasico\ExtremamenteBasico\bin\Debug\net6.0\ExtremamenteBasico.exe
+C:\udemy\ExtremamenteBasico\ExtremamenteBasico\bin\Debug\net6.0\ExtremamenteBasico.deps.json
+C:\udemy\ExtremamenteBasico\ExtremamenteBasico\bin\Debug\net6.0\ExtremamenteBasico.runtimeconfig.json
+C:\udemy\ExtremamenteBasico\ExtremamenteBasico\bin\Debug\net6.0\ExtremamenteBasico.dll
+C:\udemy\ExtremamenteBasico\ExtremamenteBasico\bin\Debug\net6.0\ExtremamenteBasico.pdb
+C:\udemy\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net6.0\ExtremamenteBasico.csproj.AssemblyReference.cache
+C:\udemy\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net6.0\ExtremamenteBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net6.0\ExtremamenteBasico.AssemblyInfoInputs.cache
+C:\udemy\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net6.0\ExtremamenteBasico.AssemblyInfo.cs
+C:\udemy\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net6.0\ExtremamenteBasico.csproj.CoreCompileInputs.cache
+C:\udemy\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net6.0\ExtremamenteBasico.dll
+C:\udemy\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net6.0\refint\ExtremamenteBasico.dll
+C:\udemy\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net6.0\ExtremamenteBasico.pdb
+C:\udemy\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net6.0\ExtremamenteBasico.genruntimeconfig.cache
+C:\udemy\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net6.0\ref\ExtremamenteBasico.dll

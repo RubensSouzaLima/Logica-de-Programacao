@@ -1,0 +1,14 @@
+C:\udemy\Ex4Salario\Ex4Salario\bin\Debug\net7.0\Ex4Salario.exe
+C:\udemy\Ex4Salario\Ex4Salario\bin\Debug\net7.0\Ex4Salario.deps.json
+C:\udemy\Ex4Salario\Ex4Salario\bin\Debug\net7.0\Ex4Salario.runtimeconfig.json
+C:\udemy\Ex4Salario\Ex4Salario\bin\Debug\net7.0\Ex4Salario.dll
+C:\udemy\Ex4Salario\Ex4Salario\bin\Debug\net7.0\Ex4Salario.pdb
+C:\udemy\Ex4Salario\Ex4Salario\obj\Debug\net7.0\Ex4Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Ex4Salario\Ex4Salario\obj\Debug\net7.0\Ex4Salario.AssemblyInfoInputs.cache
+C:\udemy\Ex4Salario\Ex4Salario\obj\Debug\net7.0\Ex4Salario.AssemblyInfo.cs
+C:\udemy\Ex4Salario\Ex4Salario\obj\Debug\net7.0\Ex4Salario.csproj.CoreCompileInputs.cache
+C:\udemy\Ex4Salario\Ex4Salario\obj\Debug\net7.0\Ex4Salario.dll
+C:\udemy\Ex4Salario\Ex4Salario\obj\Debug\net7.0\refint\Ex4Salario.dll
+C:\udemy\Ex4Salario\Ex4Salario\obj\Debug\net7.0\Ex4Salario.pdb
+C:\udemy\Ex4Salario\Ex4Salario\obj\Debug\net7.0\Ex4Salario.genruntimeconfig.cache
+C:\udemy\Ex4Salario\Ex4Salario\obj\Debug\net7.0\ref\Ex4Salario.dll

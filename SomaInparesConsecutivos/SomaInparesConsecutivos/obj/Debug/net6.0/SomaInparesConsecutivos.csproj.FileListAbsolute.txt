@@ -1,0 +1,15 @@
+C:\udemy\SomaInparesConsecutivos\SomaInparesConsecutivos\bin\Debug\net6.0\SomaInparesConsecutivos.exe
+C:\udemy\SomaInparesConsecutivos\SomaInparesConsecutivos\bin\Debug\net6.0\SomaInparesConsecutivos.deps.json
+C:\udemy\SomaInparesConsecutivos\SomaInparesConsecutivos\bin\Debug\net6.0\SomaInparesConsecutivos.runtimeconfig.json
+C:\udemy\SomaInparesConsecutivos\SomaInparesConsecutivos\bin\Debug\net6.0\SomaInparesConsecutivos.dll
+C:\udemy\SomaInparesConsecutivos\SomaInparesConsecutivos\bin\Debug\net6.0\SomaInparesConsecutivos.pdb
+C:\udemy\SomaInparesConsecutivos\SomaInparesConsecutivos\obj\Debug\net6.0\SomaInparesConsecutivos.csproj.AssemblyReference.cache
+C:\udemy\SomaInparesConsecutivos\SomaInparesConsecutivos\obj\Debug\net6.0\SomaInparesConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\SomaInparesConsecutivos\SomaInparesConsecutivos\obj\Debug\net6.0\SomaInparesConsecutivos.AssemblyInfoInputs.cache
+C:\udemy\SomaInparesConsecutivos\SomaInparesConsecutivos\obj\Debug\net6.0\SomaInparesConsecutivos.AssemblyInfo.cs
+C:\udemy\SomaInparesConsecutivos\SomaInparesConsecutivos\obj\Debug\net6.0\SomaInparesConsecutivos.csproj.CoreCompileInputs.cache
+C:\udemy\SomaInparesConsecutivos\SomaInparesConsecutivos\obj\Debug\net6.0\SomaInparesConsecutivos.dll
+C:\udemy\SomaInparesConsecutivos\SomaInparesConsecutivos\obj\Debug\net6.0\refint\SomaInparesConsecutivos.dll
+C:\udemy\SomaInparesConsecutivos\SomaInparesConsecutivos\obj\Debug\net6.0\SomaInparesConsecutivos.pdb
+C:\udemy\SomaInparesConsecutivos\SomaInparesConsecutivos\obj\Debug\net6.0\SomaInparesConsecutivos.genruntimeconfig.cache
+C:\udemy\SomaInparesConsecutivos\SomaInparesConsecutivos\obj\Debug\net6.0\ref\SomaInparesConsecutivos.dll

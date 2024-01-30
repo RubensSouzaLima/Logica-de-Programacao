@@ -1,0 +1,15 @@
+C:\udemy\MaiorEposicao\MaiorEposicao\obj\Debug\net6.0\MaiorEposicao.csproj.AssemblyReference.cache
+C:\udemy\MaiorEposicao\MaiorEposicao\obj\Debug\net6.0\MaiorEposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\MaiorEposicao\MaiorEposicao\obj\Debug\net6.0\MaiorEposicao.AssemblyInfoInputs.cache
+C:\udemy\MaiorEposicao\MaiorEposicao\obj\Debug\net6.0\MaiorEposicao.AssemblyInfo.cs
+C:\udemy\MaiorEposicao\MaiorEposicao\obj\Debug\net6.0\MaiorEposicao.csproj.CoreCompileInputs.cache
+C:\udemy\MaiorEposicao\MaiorEposicao\bin\Debug\net6.0\MaiorEposicao.exe
+C:\udemy\MaiorEposicao\MaiorEposicao\bin\Debug\net6.0\MaiorEposicao.deps.json
+C:\udemy\MaiorEposicao\MaiorEposicao\bin\Debug\net6.0\MaiorEposicao.runtimeconfig.json
+C:\udemy\MaiorEposicao\MaiorEposicao\bin\Debug\net6.0\MaiorEposicao.dll
+C:\udemy\MaiorEposicao\MaiorEposicao\bin\Debug\net6.0\MaiorEposicao.pdb
+C:\udemy\MaiorEposicao\MaiorEposicao\obj\Debug\net6.0\MaiorEposicao.dll
+C:\udemy\MaiorEposicao\MaiorEposicao\obj\Debug\net6.0\refint\MaiorEposicao.dll
+C:\udemy\MaiorEposicao\MaiorEposicao\obj\Debug\net6.0\MaiorEposicao.pdb
+C:\udemy\MaiorEposicao\MaiorEposicao\obj\Debug\net6.0\MaiorEposicao.genruntimeconfig.cache
+C:\udemy\MaiorEposicao\MaiorEposicao\obj\Debug\net6.0\ref\MaiorEposicao.dll

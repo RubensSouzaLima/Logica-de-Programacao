@@ -1,0 +1,15 @@
+C:\udemy\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConversaoTempo.exe
+C:\udemy\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConversaoTempo.deps.json
+C:\udemy\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConversaoTempo.runtimeconfig.json
+C:\udemy\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConversaoTempo.dll
+C:\udemy\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConversaoTempo.pdb
+C:\udemy\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConversaoTempo.csproj.AssemblyReference.cache
+C:\udemy\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConversaoTempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConversaoTempo.AssemblyInfoInputs.cache
+C:\udemy\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConversaoTempo.AssemblyInfo.cs
+C:\udemy\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConversaoTempo.csproj.CoreCompileInputs.cache
+C:\udemy\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConversaoTempo.dll
+C:\udemy\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\ConversaoTempo.dll
+C:\udemy\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConversaoTempo.pdb
+C:\udemy\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConversaoTempo.genruntimeconfig.cache
+C:\udemy\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\ConversaoTempo.dll

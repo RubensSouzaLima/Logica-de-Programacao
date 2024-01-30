@@ -1,0 +1,15 @@
+C:\udemy\ExercicioWhile\ExercicioWhile\bin\Debug\net6.0\ExercicioWhile.exe
+C:\udemy\ExercicioWhile\ExercicioWhile\bin\Debug\net6.0\ExercicioWhile.deps.json
+C:\udemy\ExercicioWhile\ExercicioWhile\bin\Debug\net6.0\ExercicioWhile.runtimeconfig.json
+C:\udemy\ExercicioWhile\ExercicioWhile\bin\Debug\net6.0\ExercicioWhile.dll
+C:\udemy\ExercicioWhile\ExercicioWhile\bin\Debug\net6.0\ExercicioWhile.pdb
+C:\udemy\ExercicioWhile\ExercicioWhile\obj\Debug\net6.0\ExercicioWhile.csproj.AssemblyReference.cache
+C:\udemy\ExercicioWhile\ExercicioWhile\obj\Debug\net6.0\ExercicioWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\ExercicioWhile\ExercicioWhile\obj\Debug\net6.0\ExercicioWhile.AssemblyInfoInputs.cache
+C:\udemy\ExercicioWhile\ExercicioWhile\obj\Debug\net6.0\ExercicioWhile.AssemblyInfo.cs
+C:\udemy\ExercicioWhile\ExercicioWhile\obj\Debug\net6.0\ExercicioWhile.csproj.CoreCompileInputs.cache
+C:\udemy\ExercicioWhile\ExercicioWhile\obj\Debug\net6.0\ExercicioWhile.dll
+C:\udemy\ExercicioWhile\ExercicioWhile\obj\Debug\net6.0\refint\ExercicioWhile.dll
+C:\udemy\ExercicioWhile\ExercicioWhile\obj\Debug\net6.0\ExercicioWhile.pdb
+C:\udemy\ExercicioWhile\ExercicioWhile\obj\Debug\net6.0\ExercicioWhile.genruntimeconfig.cache
+C:\udemy\ExercicioWhile\ExercicioWhile\obj\Debug\net6.0\ref\ExercicioWhile.dll

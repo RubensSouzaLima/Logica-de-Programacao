@@ -1,0 +1,15 @@
+C:\udemy\Cedulas\Cedulas\bin\Debug\net6.0\Cedulas.exe
+C:\udemy\Cedulas\Cedulas\bin\Debug\net6.0\Cedulas.deps.json
+C:\udemy\Cedulas\Cedulas\bin\Debug\net6.0\Cedulas.runtimeconfig.json
+C:\udemy\Cedulas\Cedulas\bin\Debug\net6.0\Cedulas.dll
+C:\udemy\Cedulas\Cedulas\bin\Debug\net6.0\Cedulas.pdb
+C:\udemy\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.csproj.AssemblyReference.cache
+C:\udemy\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.AssemblyInfoInputs.cache
+C:\udemy\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.AssemblyInfo.cs
+C:\udemy\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.csproj.CoreCompileInputs.cache
+C:\udemy\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.dll
+C:\udemy\Cedulas\Cedulas\obj\Debug\net6.0\refint\Cedulas.dll
+C:\udemy\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.pdb
+C:\udemy\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.genruntimeconfig.cache
+C:\udemy\Cedulas\Cedulas\obj\Debug\net6.0\ref\Cedulas.dll

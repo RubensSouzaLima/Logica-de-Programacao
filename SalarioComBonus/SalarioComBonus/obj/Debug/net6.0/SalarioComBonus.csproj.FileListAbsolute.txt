@@ -1,0 +1,15 @@
+C:\udemy\SalarioComBonus\SalarioComBonus\bin\Debug\net6.0\SalarioComBonus.exe
+C:\udemy\SalarioComBonus\SalarioComBonus\bin\Debug\net6.0\SalarioComBonus.deps.json
+C:\udemy\SalarioComBonus\SalarioComBonus\bin\Debug\net6.0\SalarioComBonus.runtimeconfig.json
+C:\udemy\SalarioComBonus\SalarioComBonus\bin\Debug\net6.0\SalarioComBonus.dll
+C:\udemy\SalarioComBonus\SalarioComBonus\bin\Debug\net6.0\SalarioComBonus.pdb
+C:\udemy\SalarioComBonus\SalarioComBonus\obj\Debug\net6.0\SalarioComBonus.csproj.AssemblyReference.cache
+C:\udemy\SalarioComBonus\SalarioComBonus\obj\Debug\net6.0\SalarioComBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\SalarioComBonus\SalarioComBonus\obj\Debug\net6.0\SalarioComBonus.AssemblyInfoInputs.cache
+C:\udemy\SalarioComBonus\SalarioComBonus\obj\Debug\net6.0\SalarioComBonus.AssemblyInfo.cs
+C:\udemy\SalarioComBonus\SalarioComBonus\obj\Debug\net6.0\SalarioComBonus.csproj.CoreCompileInputs.cache
+C:\udemy\SalarioComBonus\SalarioComBonus\obj\Debug\net6.0\SalarioComBonus.dll
+C:\udemy\SalarioComBonus\SalarioComBonus\obj\Debug\net6.0\refint\SalarioComBonus.dll
+C:\udemy\SalarioComBonus\SalarioComBonus\obj\Debug\net6.0\SalarioComBonus.pdb
+C:\udemy\SalarioComBonus\SalarioComBonus\obj\Debug\net6.0\SalarioComBonus.genruntimeconfig.cache
+C:\udemy\SalarioComBonus\SalarioComBonus\obj\Debug\net6.0\ref\SalarioComBonus.dll

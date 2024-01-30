@@ -1,0 +1,14 @@
+C:\udemy\NumeroInteiroEx1\NumeroInteiroEx1\bin\Debug\net7.0\NumeroInteiroEx1.exe
+C:\udemy\NumeroInteiroEx1\NumeroInteiroEx1\bin\Debug\net7.0\NumeroInteiroEx1.deps.json
+C:\udemy\NumeroInteiroEx1\NumeroInteiroEx1\bin\Debug\net7.0\NumeroInteiroEx1.runtimeconfig.json
+C:\udemy\NumeroInteiroEx1\NumeroInteiroEx1\bin\Debug\net7.0\NumeroInteiroEx1.dll
+C:\udemy\NumeroInteiroEx1\NumeroInteiroEx1\bin\Debug\net7.0\NumeroInteiroEx1.pdb
+C:\udemy\NumeroInteiroEx1\NumeroInteiroEx1\obj\Debug\net7.0\NumeroInteiroEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\NumeroInteiroEx1\NumeroInteiroEx1\obj\Debug\net7.0\NumeroInteiroEx1.AssemblyInfoInputs.cache
+C:\udemy\NumeroInteiroEx1\NumeroInteiroEx1\obj\Debug\net7.0\NumeroInteiroEx1.AssemblyInfo.cs
+C:\udemy\NumeroInteiroEx1\NumeroInteiroEx1\obj\Debug\net7.0\NumeroInteiroEx1.csproj.CoreCompileInputs.cache
+C:\udemy\NumeroInteiroEx1\NumeroInteiroEx1\obj\Debug\net7.0\NumeroInteiroEx1.dll
+C:\udemy\NumeroInteiroEx1\NumeroInteiroEx1\obj\Debug\net7.0\refint\NumeroInteiroEx1.dll
+C:\udemy\NumeroInteiroEx1\NumeroInteiroEx1\obj\Debug\net7.0\NumeroInteiroEx1.pdb
+C:\udemy\NumeroInteiroEx1\NumeroInteiroEx1\obj\Debug\net7.0\NumeroInteiroEx1.genruntimeconfig.cache
+C:\udemy\NumeroInteiroEx1\NumeroInteiroEx1\obj\Debug\net7.0\ref\NumeroInteiroEx1.dll

@@ -1,0 +1,15 @@
+C:\udemy\URI1113\URI1113\bin\Debug\net6.0\URI1113.exe
+C:\udemy\URI1113\URI1113\bin\Debug\net6.0\URI1113.deps.json
+C:\udemy\URI1113\URI1113\bin\Debug\net6.0\URI1113.runtimeconfig.json
+C:\udemy\URI1113\URI1113\bin\Debug\net6.0\URI1113.dll
+C:\udemy\URI1113\URI1113\bin\Debug\net6.0\URI1113.pdb
+C:\udemy\URI1113\URI1113\obj\Debug\net6.0\URI1113.csproj.AssemblyReference.cache
+C:\udemy\URI1113\URI1113\obj\Debug\net6.0\URI1113.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\URI1113\URI1113\obj\Debug\net6.0\URI1113.AssemblyInfoInputs.cache
+C:\udemy\URI1113\URI1113\obj\Debug\net6.0\URI1113.AssemblyInfo.cs
+C:\udemy\URI1113\URI1113\obj\Debug\net6.0\URI1113.csproj.CoreCompileInputs.cache
+C:\udemy\URI1113\URI1113\obj\Debug\net6.0\URI1113.dll
+C:\udemy\URI1113\URI1113\obj\Debug\net6.0\refint\URI1113.dll
+C:\udemy\URI1113\URI1113\obj\Debug\net6.0\URI1113.pdb
+C:\udemy\URI1113\URI1113\obj\Debug\net6.0\URI1113.genruntimeconfig.cache
+C:\udemy\URI1113\URI1113\obj\Debug\net6.0\ref\URI1113.dll
